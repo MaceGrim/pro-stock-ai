@@ -14,5 +14,9 @@
   "devDependencies": {
     "gh-pages": "^6.1.1",
     "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "papaparse": "^5.4.1",
+    "plotly.js-dist-min": "^2.30.1"
   }
 }
