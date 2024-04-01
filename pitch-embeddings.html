@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/pro-stock-ai/baseball.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pro Stock AI</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.3/dist/lumen/bootstrap.min.css" rel="stylesheet">
+  <script type="module" crossorigin src="/pro-stock-ai/assets/page3-BEJuj-We.js"></script>
+  <link rel="modulepreload" crossorigin href="/pro-stock-ai/assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="stylesheet" crossorigin href="/pro-stock-ai/assets/style-CVq2ZnRa.css">
+</head>
+
+<body>
+    <div id="ui">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <h1>Pro Stock AI</h1>
+                    <p>Explore the embeddings of pitches thrown by professional baseball players.</p>
+                </div>
+            </div>
+            <div class="dropdown-basic">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                    data-bs-toggle="dropdown" aria-expanded="false">
+                    Select pitch type
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <li><a class="dropdown-item" href="#">Fastball</a></li>
+                    <li><a class="dropdown-item" href="#">Curveball</a></li>
+                    <li><a class="dropdown-item" href="#">Slider</a></li>
+                    <li><a class="dropdown-item" href="#">Changeup</a></li>
+                    <li><a class="dropdown-item" href="#">Sinker</a></li>
+                    <li><a class="dropdown-item" href="#">Cutter</a></li>
+                    <li><a class="dropdown-item" href="#">Splitter</a></li>
+                    <li><a class="dropdown-item" href="#">Knuckleball</a></li>
+                    <li><a class="dropdown-item" href="#">Forkball</a></li>
+                    <li><a class="dropdown-item" href="#">Screwball</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- make a horizontal line -->
+        <hr>
+        <div class="range">
+            <label for="pitch-speed">Pitch Speed</label>
+            <input type="range" class="form-range" id="pitch-speed" min="70" max="105" step="1" value="90">
+        </div>
+
+        <div class="range">
+            <label for="spin-rate">Spin Rate</label>
+            <input type="range" class="form-range" id="spin-rate" min="0" max="3500" step="100" value="2000">
+        </div>
+    </div>
+    </div>
+    <div id="viz">
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js"
+        integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
