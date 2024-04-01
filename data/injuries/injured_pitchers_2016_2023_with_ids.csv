@@ -1,35 +1,35 @@
 Date,Team,Player,Notes,DL_length,Injury_Type,player_id
-2016-02-18, Rays,Chase Whitley," placedon 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,595032
-2016-02-18, Rockies,Adam Ottavino," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,493603
-2016-02-19, Dodgers,Brandon McCarthy," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,435221
-2016-02-19, Royals,Jason Vargas, placed on 60 day DL recovering from surgery on left elbow,60,unknown,450306
+2016-02-18, Rays,Chase Whitley," placedon 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,595032
+2016-02-18, Rockies,Adam Ottavino," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,493603
+2016-02-19, Dodgers,Brandon McCarthy," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,435221
+2016-02-19, Royals,Jason Vargas, placed on 60 day DL recovering from surgery on left elbow,60,on left elbow,450306
 2016-02-25, Cubs,Zac Rosscup, placed on 60 day DL with left shoulder inflammation,60, left shoulder inflammation,573127
 2016-02-29, Rangers,Tanner Scheppers, placed on 60 day DL with torn cartilage in left knee,60, torn cartilage in left knee,489294
 2016-03-01, Mariners,Jesus Sucre, placed on 60 day DL with fractured fibula in leg,60, fractured fibula in leg,491696
-2016-03-15, Royals,Mike Minor, placed on 60 day DL with recovering from surgery on left shoulder,60, recovering from surgery on left shoulder,501985
+2016-03-15, Royals,Mike Minor, placed on 60 day DL with recovering from surgery on left shoulder,60,on left shoulder,501985
 2016-03-29, Brewers,Sean Nolin, placed on 15 day DL with strained left elbow,15, strained left elbow,543594
 2016-03-31, Brewers,Sean Nolin, placed on 15 day DL with strained left elbow (CBC E),15, strained left elbow (CBC E),543594
 2016-04-01, Astros,Lance McCullers Jr., placed on 15 day DL with sore right shoulder,15, sore right shoulder,621121
-2016-04-01, Astros,Max Stassi, placed on 15 day DL with surgery to repair fractured left wrist,15, surgery to repair fractured left wrist,545358
-2016-04-01, Mets,Josh Edgin," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow",15,unknown,572831
-2016-04-01, Mets,Zack Wheeler," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,554430
-2016-04-01, Nationals,Aaron Barrett," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,502578
+2016-04-01, Astros,Max Stassi, placed on 15 day DL with surgery to repair fractured left wrist,15,to repair fractured left wrist,545358
+2016-04-01, Mets,Josh Edgin," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow",15,on left elbow,572831
+2016-04-01, Mets,Zack Wheeler," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,554430
+2016-04-01, Nationals,Aaron Barrett," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,502578
 2016-04-02, Athletics,Eric Sogard, placed on 15 day DL with cervical strain,15, cervical strain,519299
-2016-04-02, Athletics,Henderson Alvarez, placed on 15 day DL recovering from surgery on right shoulder,15,unknown,506693
-2016-04-02, Athletics,R.J. Alvarez, placed on 15 day DL recovering from surgery on right elbow to remove bone chips,15,unknown,571439
+2016-04-02, Athletics,Henderson Alvarez, placed on 15 day DL recovering from surgery on right shoulder,15,on right shoulder,506693
+2016-04-02, Athletics,R.J. Alvarez, placed on 15 day DL recovering from surgery on right elbow to remove bone chips,15,on right elbow to remove bone chips,571439
 2016-04-02, Blue Jays,Marco Estrada, placed on 15 day DL with sore back,15, sore back,462136
-2016-04-02, Braves,Jesse Biddle," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow",15,unknown,592145
-2016-04-02, Braves,Manny Banuelos, placed on 15 day DL with left elbow inflammation (MLB) / recovering from surgery on left elbow to remove bone spur,15, left elbow inflammation (MLB) / recovering from surgery on left elbow to remove bone spur,544365
-2016-04-02, Braves,Shae Simmons," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,623406
+2016-04-02, Braves,Jesse Biddle," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow",15,on left elbow,592145
+2016-04-02, Braves,Manny Banuelos, placed on 15 day DL with left elbow inflammation (MLB) / recovering from surgery on left elbow to remove bone spur,15,on left elbow to remove bone spur,544365
+2016-04-02, Braves,Shae Simmons," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,623406
 2016-04-02, Brewers,Corey Knebel, placed on 15 day DL with strained left oblique,15, strained left oblique,608349
-2016-04-02, Cardinals,Lance Lynn," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,458681
+2016-04-02, Cardinals,Lance Lynn," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,458681
 2016-04-02, Cardinals,Ruben Tejada, placed on 15 day DL with strained left quadriceps,15, strained left quadriceps,514913
 2016-04-02, Diamondbacks,Josh Collmenter, placed on 15 day DL with tightness in right shoulder,15, tightness in right shoulder,518567
-2016-04-02, Phillies,Aaron Altherr, placed on 60 day DL recovering from surgery on left wrist to repair torn tendon,60,unknown,571437
+2016-04-02, Phillies,Aaron Altherr, placed on 60 day DL recovering from surgery on left wrist to repair torn tendon,60,on left wrist to repair torn tendon,571437
 2016-04-02, Phillies,Michael Mariot, placed on 15 day DL with sprained/strained right ankle,15, sprained/strained right ankle,592527
-2016-04-02, Rays,Alex Cobb," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,502171
-2016-04-02, Rays,Brad Boxberger, placed on 15 day DL recovering from surgery on groin / core muscle,15,unknown,502202
-2016-04-02, Red Sox,Brandon Workman," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,519443
+2016-04-02, Rays,Alex Cobb," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,502171
+2016-04-02, Rays,Brad Boxberger, placed on 15 day DL recovering from surgery on groin / core muscle,15,on groin / core muscle,502202
+2016-04-02, Red Sox,Brandon Workman," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,519443
 2016-04-02, Red Sox,Carson Smith, placed on 15 day DL with strained flexor muscle in right elbow,15, strained flexor muscle in right elbow,605476
 2016-04-02, Rockies,Jason Motte, placed on 15 day DL with strained right shoulder,15, strained right shoulder,435400
 2016-04-02, Rockies,Jon Gray, placed on 15 day DL with strained abdominal muscle,15, strained abdominal muscle,592351
@@ -39,22 +39,22 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2016-04-03, Blue Jays,Aaron Loup, placed on 15 day DL with sore left elbow,15, sore left elbow,571901
 2016-04-03, Dodgers,Josh Ravin, placed on 15 day DL with fractured left forearm,15, fractured left forearm,502051
 2016-04-03, Dodgers,Mike Bolsinger, placed on 15 day DL with strained left oblique muscle,15, strained left oblique muscle,502211
-2016-04-03, Indians,Tommy Hunter, placed on 15 day DL recovering from surgery on core muscle,15,unknown,488984
+2016-04-03, Indians,Tommy Hunter, placed on 15 day DL recovering from surgery on core muscle,15,on core muscle,488984
 2016-04-03, Mariners,Evan Scribner, placed on 15 day DL with strained lat in right shoulder,15, strained lat in right shoulder,519267
-2016-04-03, Marlins,Carter Capps," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on right elbow",60," ligament replacement (""Tommy John"") surgery on right elbow",605169
-2016-04-03, Mets,Josh Edgin," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow (MLB)",15,unknown,572831
-2016-04-03, Mets,Zack Wheeler," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (MLB)",15,unknown,554430
+2016-04-03, Marlins,Carter Capps," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,605169
+2016-04-03, Mets,Josh Edgin," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow (MLB)",15,on left elbow (MLB),572831
+2016-04-03, Mets,Zack Wheeler," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (MLB)",15,on right elbow (MLB),554430
 2016-04-03, Orioles,Kevin Gausman, placed on 15 day DL with right shoulder tendinitis / strained right shoulder,15, right shoulder tendinitis / strained right shoulder,592332
 2016-04-03, Padres,Jon Edwards, placed on 15 day DL with strained flexor / tightness in right elbow,15, strained flexor / tightness in right elbow,457754
 2016-04-03, Rangers,Chris Gimenez, placed on 15 day DL with left ankle injury / infection in lower left leg,15, left ankle injury / infection in lower left leg,460269
 2016-04-03, Rangers,Luke Jackson, placed on 15 day DL with stress reaction in lower back,15, stress reaction in lower back,592426
-2016-04-03, Rangers,Yu Darvish," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,506433
+2016-04-03, Rangers,Yu Darvish," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,506433
 2016-04-03, Reds,Anthony DeSclafani, placed on 15 day DL with strained oblique muscle,15, strained oblique muscle,543101
-2016-04-03, Reds,Homer Bailey," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,456701
+2016-04-03, Reds,Homer Bailey," placed on 15 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,456701
 2016-04-03, Reds,Michael Lorenzen, placed on 15 day DL with sprained UCL in right elbow,15, sprained UCL in right elbow,547179
 2016-04-03, Rockies,Daniel Descalso, placed on 15 day DL with fractured left hand,15, fractured left hand,518614
 2016-04-03, Rockies,Tyler Matzek, placed on 15 day DL with anxiety disorder,15, anxiety disorder,554431
-2016-04-03, Yankees,Bryan Mitchell, placed on 15 day DL with surgery to repair fractured left big toe,15, surgery to repair fractured left big toe,571951
+2016-04-03, Yankees,Bryan Mitchell, placed on 15 day DL with surgery to repair fractured left big toe,15,to repair fractured left big toe,571951
 2016-04-05, Brewers,Matt Garza, placed on 15 day DL with tightness in / strained right lat,15, tightness in / strained right lat,490063
 2016-04-06, Angels,Andrew Heaney, placed on 15 day DL with strained left flexor,15, strained left flexor,571760
 2016-04-08, Padres,Tyson Ross, placed on 15 day DL with right shoulder inflammation,15, right shoulder inflammation,475115
@@ -152,7 +152,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2016-06-19, Rockies,Tyler Chatwood, placed on 15 day DL with strained back,15, strained back,543022
 2016-06-20, Diamondbacks,David Peralta, placed on 15 day DL with sprained lower back,15, sprained lower back,444482
 2016-06-21, Cubs,Clayton Richard, placed on 15 day DL with blister on left middle finger,15, blister on left middle finger,453385
-2016-06-22, Orioles,Brian Duensing, placed on 15 day DL with surgery on left elbow,15, surgery on left elbow,488846
+2016-06-22, Orioles,Brian Duensing, placed on 15 day DL with surgery on left elbow,15,on left elbow,488846
 2016-06-22, Rangers,Derek Holland, placed on 15 day DL with left shoulder inflammation,15, left shoulder inflammation,502706
 2016-06-24, Mariners,Adrian Sampson, placed on 15 day DL with strained right flexor bundle,15, strained right flexor bundle,592716
 2016-06-24, Phillies,Andrew Bailey, placed on 15 day DL with strained left hamstring,15, strained left hamstring,457732
@@ -232,7 +232,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2016-08-10, Twins,Trevor May, placed on 15 day DL with strained lower back,15, strained lower back,543507
 2016-08-11, Cubs,Pedro Strop, placed on 15 day DL with torn meniscus in left knee,15, torn meniscus in left knee,467008
 2016-08-12, Twins,Tommy Milone, placed on 15 day DL with left biceps tendinitis,15, left biceps tendinitis,543548
-2016-08-12, Yankees,Nathan Eovaldi," placed on 15 day DL with ligament replacement (""Tommy John"") surgery on right elbow",15," ligament replacement (""Tommy John"") surgery on right elbow",543135
+2016-08-12, Yankees,Nathan Eovaldi," placed on 15 day DL with ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,543135
 2016-08-13, Orioles,Darren O'Day, placed on 15 day DL with strained right rotator cuff,15, strained right rotator cuff,503285
 2016-08-14, Dodgers,Brandon McCarthy, placed on 15 day DL with stiffness in right hip,15, stiffness in right hip,435221
 2016-08-14, Dodgers,Josh Ravin, placed on 15 day DL with right triceps inflammation,15, right triceps inflammation,502051
@@ -265,7 +265,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2016-08-30, Braves,Arodys Vizcaino, placed on 15 day DL with right shoulder inflammation (out for season),15, right shoulder inflammation (out for season),527055
 2016-08-31, Marlins,David Phelps, placed on 15 day DL with strained left oblique,15, strained left oblique,475479
 2016-08-31, Padres,Christian Bethancourt, placed on 15 day DL with strained left intercostal (out for season),15, strained left intercostal (out for season),542194
-2016-09-02, Yankees,Nick Rumbelow," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on elbow",60," ligament replacement (""Tommy John"") surgery on elbow",592705
+2016-09-02, Yankees,Nick Rumbelow," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on elbow",60,on elbow,592705
 2016-09-03, Braves,Aaron Blair, placed on 15 day DL with strained left knee,15, strained left knee,594760
 2016-09-03, Giants,Ray Black, placed on 60 day DL with bone spur in right elbow,60, bone spur in right elbow,605143
 2016-09-05, Angels,Matt Shoemaker," placed on 15 day DL with fractured skull, hematoma",15," fractured skull, hematoma",533167
@@ -276,42 +276,42 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2016-09-26, Pirates,Josh Harrison, placed on 60 day DL with strained right groin,60, strained right groin,543281
 2016-09-30, Indians,Carlos Carrasco, placed on 60 day DL with fractured right hand,60, fractured right hand,471911
 2016-11-02, Rangers,Adrian Sampson, placed on 60 day DL with strained right flexor,60, strained right flexor,592716
-2017-02-14, Nationals,Aaron Barrett," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,502578
-2017-02-14, Rangers,Jake Diekman, placed on 60 day DL recovering from surgery to treat ulcerative colitis,60,unknown,518617
-2017-02-15, Dodgers,Yimi Garcia," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,554340
+2017-02-14, Nationals,Aaron Barrett," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,502578
+2017-02-14, Rangers,Jake Diekman, placed on 60 day DL recovering from surgery to treat ulcerative colitis,60,to treat ulcerative colitis,518617
+2017-02-15, Dodgers,Yimi Garcia," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,554340
 2017-02-15, Royals,Brian Flynn, placed on 60 day DL with fractured vertabrae in back,60, fractured vertabrae in back,543169
-2017-02-19, Padres,Colin Rea, placed on 60 day DL with surgery on right elbow,60, surgery on right elbow,607067
-2017-02-25, Braves,Sean Rodriguez, placed on 60 day DL recovering from surgery on left shoulder,60,unknown,446481
-2017-03-10, Rays,Nathan Eovaldi," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,543135
-2017-03-22, Twins,Trevor May," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,543507
+2017-02-19, Padres,Colin Rea, placed on 60 day DL with surgery on right elbow,60,on right elbow,607067
+2017-02-25, Braves,Sean Rodriguez, placed on 60 day DL recovering from surgery on left shoulder,60,on left shoulder,446481
+2017-03-10, Rays,Nathan Eovaldi," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,543135
+2017-03-22, Twins,Trevor May," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,543507
 2017-03-26, Rockies,Chad Bettis, placed on 60 day DL with testicular cancer,60, testicular cancer,518452
-2017-03-29, Cardinals,Zach Duke, placed on 60 day DL with surgery on left elbow,60, surgery on left elbow,435043
+2017-03-29, Cardinals,Zach Duke, placed on 60 day DL with surgery on left elbow,60,on left elbow,435043
 2017-03-30, Astros,Collin McHugh, placed on 10 day DL with hypertrophy in right arm,10, hypertrophy in right arm,543521
 2017-03-30, Astros,David Paulino, placed on 10 day DL with right arm inflammation,10, right arm inflammation,600944
 2017-03-30, Brewers,Matt Garza, placed on 10 day DL with strained right groin,10, strained right groin,490063
-2017-03-30, Cardinals,Alex Reyes, placed on 10 day DL with surgery on right elbow,10, surgery on right elbow,621052
+2017-03-30, Cardinals,Alex Reyes, placed on 10 day DL with surgery on right elbow,10,on right elbow,621052
 2017-03-30, Cardinals,John Gant, placed on 10 day DL with strained right groin,10, strained right groin,607231
 2017-03-30, Cardinals,Trevor Rosenthal, placed on 10 day DL with strained right lat muscle,10, strained right lat muscle,572096
-2017-03-30, Cardinals,Tyler Lyons, placed on 10 day DL recovering from surgery on right knee,10,unknown,544928
-2017-03-30, Padres,Robbie Erlin," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,572362
+2017-03-30, Cardinals,Tyler Lyons, placed on 10 day DL recovering from surgery on right knee,10,on right knee,544928
+2017-03-30, Padres,Robbie Erlin," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,572362
 2017-03-30, Red Sox,Drew Pomeranz, placed on 10 day DL with strained flexor in left forearm,10, strained flexor in left forearm,519141
 2017-03-30, Twins,Ehire Adrianza, placed on 10 day DL with strained right oblique muscle,10, strained right oblique muscle,501303
 2017-03-30, Twins,Ryan O'Rourke, placed on 10 day DL with strained left elbow/forearm,10, strained left elbow/forearm,594951
 2017-03-31, Diamondbacks,Jake Barrett, placed on 10 day DL with stiffness in right shoulder,10, stiffness in right shoulder,545332
 2017-03-31, Mariners,Rob Whalen, placed on 10 day DL with right elbow / shoulder inflammation / calf injury,10, right elbow / shoulder inflammation / calf injury,547007
 2017-03-31, Mariners,Shae Simmons, placed on 10 day DL with strained flexor in right forearm,10, strained flexor in right forearm,623406
-2017-03-31, Mariners,Steve Cishek, placed on 10 day DL recovering from surgery on left hip to repair torn labrum,10,unknown,518553
-2017-03-31, Mariners,Tony Zych, placed on 10 day DL with recovering from surgery on right biceps,10, recovering from surgery on right biceps,543964
-2017-04-01, Angels,Andrew Heaney, placed on 10 day DL recovering from surgery on left elbow to repair UCL,10,unknown,571760
+2017-03-31, Mariners,Steve Cishek, placed on 10 day DL recovering from surgery on left hip to repair torn labrum,10,on left hip to repair torn labrum,518553
+2017-03-31, Mariners,Tony Zych, placed on 10 day DL with recovering from surgery on right biceps,10,on right biceps,543964
+2017-04-01, Angels,Andrew Heaney, placed on 10 day DL recovering from surgery on left elbow to repair UCL,10,on left elbow to repair UCL,571760
 2017-04-01, Angels,Huston Street, placed on 10 day DL with strained right lat muscle,10, strained right lat muscle,434718
-2017-04-01, Angels,Nick Tropeano, placed on 60 day DL recovering from surgery on right elbow to repair UCL,60,unknown,607374
-2017-04-01, Athletics,Chris Bassitt," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,605135
-2017-04-01, Athletics,Daniel Mengden, placed on 10 day DL with fractured right foot (surgery),10, fractured right foot (surgery),596043
-2017-04-01, Athletics,Jake Smolinski, placed on 10 day DL recovering from surgery on right shoulder,10,unknown,519295
+2017-04-01, Angels,Nick Tropeano, placed on 60 day DL recovering from surgery on right elbow to repair UCL,60,on right elbow to repair UCL,607374
+2017-04-01, Athletics,Chris Bassitt," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,605135
+2017-04-01, Athletics,Daniel Mengden, placed on 10 day DL with fractured right foot (surgery),10,),596043
+2017-04-01, Athletics,Jake Smolinski, placed on 10 day DL recovering from surgery on right shoulder,10,on right shoulder,519295
 2017-04-01, Athletics,Sonny Gray, placed on 10 day DL with strained lat muscle in right back/shoulder,10, strained lat muscle in right back/shoulder,543243
-2017-04-01, Padres,Carter Capps," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,605169
+2017-04-01, Padres,Carter Capps," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,605169
 2017-04-01, Rays,Brad Boxberger, placed on 10 day DL with strained lat muscle / strained right flexor,10, strained lat muscle / strained right flexor,502202
-2017-04-01, Red Sox,Carson Smith," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,605476
+2017-04-01, Red Sox,Carson Smith," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,605476
 2017-04-01, Red Sox,David Price, placed on 10 day DL with strained left elbow,10, strained left elbow,456034
 2017-04-01, Red Sox,Roenis Elias, placed on 10 day DL with right intercostal injury / strained right oblique,10, right intercostal injury / strained right oblique,606273
 2017-04-01, Red Sox,Tyler Thornburg, placed on 10 day DL with right shoulder impingement,10, right shoulder impingement,592804
@@ -322,24 +322,24 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2017-04-02, Dodgers,Josh Ravin, placed on 10 day DL with strained right groin,10, strained right groin,502051
 2017-04-02, Dodgers,Pedro Baez, placed on 10 day DL with bruised right wrist / strained right thumb,10, bruised right wrist / strained right thumb,520980
 2017-04-02, Dodgers,Scott Kazmir, placed on 10 day DL with strained left hip,10, strained left hip,431148
-2017-04-02, Indians,Cody Anderson, placed on 60 day DL with surgery on right elbow,60, surgery on right elbow,594736
+2017-04-02, Indians,Cody Anderson, placed on 60 day DL with surgery on right elbow,60,on right elbow,594736
 2017-04-02, Marlins,Jeff Locke, placed on 10 day DL with left shoulder / biceps tendinitis,10, left shoulder / biceps tendinitis,502046
 2017-04-02, Marlins,Odrisamer Despaigne, placed on 10 day DL with strained left oblique muscle,10, strained left oblique muscle,628333
 2017-04-02, Mets,Steven Matz, placed on 10 day DL with left elbow inflammation/irritation,10, left elbow inflammation/irritation,571927
 2017-04-02, Orioles,Chris Tillman, placed on 10 day DL with bursitis in right shoulder,10, bursitis in right shoulder,501957
 2017-04-02, Orioles,Wade Miley, placed on 10 day DL with illness,10, illness,489119
-2017-04-02, Phillies,Zach Eflin, placed on 10 day DL recovering from surgery to repair patellar tendinopathy in both knees,10,unknown,621107
+2017-04-02, Phillies,Zach Eflin, placed on 10 day DL recovering from surgery to repair patellar tendinopathy in both knees,10,to repair patellar tendinopathy in both knees,621107
 2017-04-02, Rangers,Andrew Cashner, placed on 10 day DL with tendinitis in right biceps,10, tendinitis in right biceps,488768
-2017-04-02, Rangers,Brett Nicholas, placed on 10 day DL with surgery on left knee to repair torn meniscus,10, surgery on left knee to repair torn meniscus,592592
+2017-04-02, Rangers,Brett Nicholas, placed on 10 day DL with surgery on left knee to repair torn meniscus,10,on left knee to repair torn meniscus,592592
 2017-04-02, Rangers,Hanser Alberto, placed on 10 day DL with tightness in right shoulder,10, tightness in right shoulder,593643
 2017-04-02, Rangers,Tanner Scheppers, placed on 10 day DL with sore left abdominal muscle,10, sore left abdominal muscle,489294
-2017-04-02, Rangers,Tyson Ross, placed on 10 day DL recovering from surgery to treat thoracic outlet syndrome,10,unknown,475115
+2017-04-02, Rangers,Tyson Ross, placed on 10 day DL recovering from surgery to treat thoracic outlet syndrome,10,to treat thoracic outlet syndrome,475115
 2017-04-02, Reds,Anthony DeSclafani, placed on 10 day DL with sprained UCL in right elbow,10, sprained UCL in right elbow,543101
 2017-04-02, Reds,Austin Brice, placed on 10 day DL with ulnar neuritis in right elbow,10, ulnar neuritis in right elbow,592169
 2017-04-02, Rockies,Chad Qualls, placed on 10 day DL with rightness in right forearm,10, rightness in right forearm,430589
 2017-04-02, Rockies,Chris Rusin, placed on 10 day DL with strained right oblique muscle,10, strained right oblique muscle,543734
 2017-04-02, Rockies,Ian Desmond, placed on 10 day DL with fractured left hand,10, fractured left hand,435622
-2017-04-02, Twins,Glen Perkins, placed on 60 day DL recovering from surgery on left shoulder,60,unknown,450282
+2017-04-02, Twins,Glen Perkins, placed on 60 day DL recovering from surgery on left shoulder,60,on left shoulder,450282
 2017-04-02, White Sox,Carlos Rodon, placed on 10 day DL with bursitis in left biceps,10, bursitis in left biceps,607074
 2017-04-02, White Sox,Juan Minaya, placed on 10 day DL with strained right abdominal,10, strained right abdominal,573668
 2017-04-02, Royals,Hunter Dozier, placed on 60 day DL with strained left oblique,60, strained left oblique,641531
@@ -388,7 +388,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2017-04-30, Athletics,Sean Manaea, placed on 10 day DL with strained left shoulder,10, strained left shoulder,640455
 2017-05-01, Blue Jays,Aaron Sanchez, placed on 10 day DL with split right fingernail,10, split right fingernail,592717
 2017-05-01, Mets,Noah Syndergaard, placed on 10 day DL with torn right lat muscle,10, torn right lat muscle,592789
-2017-05-01, Red Sox,Steven Wright, placed on 10 day DL with surgery on left knee (out for season),10, surgery on left knee (out for season),453214
+2017-05-01, Red Sox,Steven Wright, placed on 10 day DL with surgery on left knee (out for season),10,on left knee (out for season),453214
 2017-05-02, Cardinals,Tyler Lyons, placed on 10 day DL with strained right intercostal,10, strained right intercostal,544928
 2017-05-03, Athletics,Sean Doolittle, placed on 10 day DL with strained left shoulder,10, strained left shoulder,448281
 2017-05-03, Indians,Corey Kluber, placed on 10 day DL with strained lower back,10, strained lower back,446372
@@ -634,7 +634,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2017-09-01, Braves,Jason Motte, placed on 10 day DL with strained right oblique muscle,10, strained right oblique muscle,435400
 2017-09-01, Mariners,David Phelps, placed on 10 day DL with right elbow posterior impingement,10, right elbow posterior impingement,475479
 2017-09-01, Indians,Dylan Baker, placed on 60 day DL with sore back,60, sore back,641329
-2017-09-02, Astros,Brady Rodgers," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on right elbow",60," ligament replacement (""Tommy John"") surgery on right elbow",572086
+2017-09-02, Astros,Brady Rodgers," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,572086
 2017-09-03, Pirates,Josh Harrison, placed on 10 day DL with fractured metacarpal in left hand,10, fractured metacarpal in left hand,543281
 2017-09-04, Nationals,Erick Fedde, placed on 10 day DL with strained flexor in right forearm,10, strained flexor in right forearm,607200
 2017-09-05, Phillies,Pedro Florimon Jr., placed on 10 day DL with dislocated/sprained right ankle (out for season),10, dislocated/sprained right ankle (out for season),465753
@@ -645,27 +645,27 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2017-09-08, White Sox,Carlos Rodon, placed on 10 day DL with left shoulder inflammation (out for season),10, left shoulder inflammation (out for season),607074
 2017-09-11, Phillies,Jesen Therrien, placed on 60 day DL with strained right elbow,60, strained right elbow,592279
 2017-09-12, Padres,Carter Capps, placed on 60 day DL with blood clots,60, blood clots,605169
-2017-09-13, Reds,Drew Storen, placed on 10 day DL with surgery on right elbow,10, surgery on right elbow,519322
+2017-09-13, Reds,Drew Storen, placed on 10 day DL with surgery on right elbow,10,on right elbow,519322
 2017-09-14, Brewers,Jimmy Nelson, placed on 10 day DL with strained rotator cuff in right shoulder / right shoulder impingement (out for season),10, strained rotator cuff in right shoulder / right shoulder impingement (out for season),519076
 2017-09-22, Dodgers,Josh Ravin, placed on 60 day DL with strained abdominal,60, strained abdominal,502051
 2017-09-30, Nationals,Shawn Kelley, placed on 60 day DL with bone chips in right elbow,60, bone chips in right elbow,518875
 2017-10-01, Astros,David Paulino, placed on 60 day DL with bone spurs in right elbow,60, bone spurs in right elbow,600944
-2018-02-14, Braves,Grant Dayton, placed on 60 day DL recovering from surgery on left elbow (out for season),60,unknown,594795
-2018-02-17, Twins,Michael Pineda, placed on 60 day DL recovering from surgery on right elbow (out for season),60,unknown,501381
-2018-02-19, Diamondbacks,Shelby Miller," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,571946
-2018-02-20, Pirates,Nick Burdi," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,595897
-2018-02-20, Twins,Trevor May," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,543507
-2018-02-21, Angels,Alex Meyer, placed on 60 day DL recovering from surgery on right shoulder (out for season),60,unknown,543542
-2018-02-23, Dodgers,Julio Urias, placed on 60 day DL recovering from surgery on left shoulder,60,unknown,628711
-2018-02-23, Rangers,Joe Palumbo," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,643478
-2018-02-25, Indians,Cody Anderson," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,594736
+2018-02-14, Braves,Grant Dayton, placed on 60 day DL recovering from surgery on left elbow (out for season),60,on left elbow (out for season),594795
+2018-02-17, Twins,Michael Pineda, placed on 60 day DL recovering from surgery on right elbow (out for season),60,on right elbow (out for season),501381
+2018-02-19, Diamondbacks,Shelby Miller," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,571946
+2018-02-20, Pirates,Nick Burdi," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,595897
+2018-02-20, Twins,Trevor May," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,543507
+2018-02-21, Angels,Alex Meyer, placed on 60 day DL recovering from surgery on right shoulder (out for season),60,on right shoulder (out for season),543542
+2018-02-23, Dodgers,Julio Urias, placed on 60 day DL recovering from surgery on left shoulder,60,on left shoulder,628711
+2018-02-23, Rangers,Joe Palumbo," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,643478
+2018-02-25, Indians,Cody Anderson," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),594736
 2018-03-06, Royals,Jesse Hahn, placed on 60 day DL with sprained UCL in right elbow (out for season),60, sprained UCL in right elbow (out for season),534910
-2018-03-19, Athletics,Jharel Cotton," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,605194
+2018-03-19, Athletics,Jharel Cotton," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),605194
 2018-03-21, Rangers,Ronald Herrera, placed on 60 day DL with inflammation of labrum in right shoulder (out for season),60, inflammation of labrum in right shoulder (out for season),622703
 2018-03-26, Diamondbacks,Randall Delgado, placed on 10 day DL with strained left oblique,10, strained left oblique,517414
-2018-03-26, Mets,Rafael Montero, placed on 60 day DL with surgery on right elbow to repair torn UCL (out for season),60, surgery on right elbow to repair torn UCL (out for season),606160
+2018-03-26, Mets,Rafael Montero, placed on 60 day DL with surgery on right elbow to repair torn UCL (out for season),60,on right elbow to repair torn UCL (out for season),606160
 2018-03-26, Red Sox,Drew Pomeranz, placed on 10 day DL with strained left forearm flexor,10, strained left forearm flexor,519141
-2018-03-26, Red Sox,Steven Wright, placed on 10 day DL recovering from surgery on left knee to restore cartilage,10,unknown,453214
+2018-03-26, Red Sox,Steven Wright, placed on 10 day DL recovering from surgery on left knee to restore cartilage,10,on left knee to restore cartilage,453214
 2018-03-27, Giants,Julian Fernandez, placed on 10 day DL with right elbow injury,10, right elbow injury,642759
 2018-03-27, Marlins,Brett Graves, placed on 10 day DL with strained left oblique,10, strained left oblique,605255
 2018-03-27, Nationals,Joaquin Benoit, placed on 10 day DL with strained right forearm,10, strained right forearm,276542
@@ -674,11 +674,11 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-03-28, Athletics,Paul Blackburn, placed on 10 day DL with strained right forearm,10, strained right forearm,621112
 2018-03-28, Athletics,Ryan Dull, placed on 10 day DL with strained right shoulder,10, strained right shoulder,623430
 2018-03-28, Brewers,Boone Logan, placed on 10 day DL with strained left triceps,10, strained left triceps,457429
-2018-03-28, Brewers,Jimmy Nelson, placed on 10 day DL recovering from surgery on right shoulder to repair rotator cuff,10,unknown,519076
+2018-03-28, Brewers,Jimmy Nelson, placed on 10 day DL recovering from surgery on right shoulder to repair rotator cuff,10,on right shoulder to repair rotator cuff,519076
 2018-03-28, Cardinals,Adam Wainwright, placed on 10 day DL with strained left hamstring,10, strained left hamstring,425794
-2018-03-28, Cardinals,Alex Reyes, placed on 10 day DL recovering from surgery on right elbow,10,unknown,621052
+2018-03-28, Cardinals,Alex Reyes, placed on 10 day DL recovering from surgery on right elbow,10,on right elbow,621052
 2018-03-28, Cardinals,Luke Gregerson, placed on 10 day DL with strained left hamstring,10, strained left hamstring,502381
-2018-03-28, Mariners,David Phelps," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,475479
+2018-03-28, Mariners,David Phelps," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,475479
 2018-03-28, Mariners,Erasmo Ramirez, placed on 10 day DL with strained right lat muscle / shoulder,10, strained right lat muscle / shoulder,541640
 2018-03-28, Marlins,Brett Graves, placed on 60 day DL with strained left oblique,60, strained left oblique,605255
 2018-03-28, Marlins,Wei-Yin Chen, placed on 10 day DL with left elbow inflammation,10, left elbow inflammation,612672
@@ -688,15 +688,15 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-03-28, Rays,Nathan Eovaldi, placed on 10 day DL with loose bodies in right elbow,10, loose bodies in right elbow,543135
 2018-03-28, Tigers,Johnny Barbato, placed on 10 day DL with strained right forearm,10, strained right forearm,592127
 2018-03-28, Tigers,Mike Fiers, placed on 10 day DL with strained right lumbar,10, strained right lumbar,571666
-2018-03-28, White Sox,Carlos Rodon, placed on 10 day DL recovering from surgery on left shoulder,10,unknown,607074
+2018-03-28, White Sox,Carlos Rodon, placed on 10 day DL recovering from surgery on left shoulder,10,on left shoulder,607074
 2018-03-29, Angels,Andrew Heaney, placed on 10 day DL with left elbow inflammation,10, left elbow inflammation,571760
-2018-03-29, Astros,Brady Rodgers," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,572086
+2018-03-29, Astros,Brady Rodgers," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,572086
 2018-03-29, Astros,James Hoyt, placed on 10 day DL with strained left oblique,10, strained left oblique,624586
-2018-03-29, Astros,Jandel Gustave, placed on 10 day DL recovering from surgery on right elbow,10,unknown,594311
+2018-03-29, Astros,Jandel Gustave, placed on 10 day DL recovering from surgery on right elbow,10,on right elbow,594311
 2018-03-29, Braves,Chase Whitley, placed on 10 day DL with right heel infection,10, right heel infection,595032
 2018-03-29, Braves,Luiz Gohara, placed on 10 day DL with sprained left ankle,10, sprained left ankle,627894
 2018-03-29, Dodgers,Tom Koehler, placed on 10 day DL with strained anterior capsule in right shoulder,10, strained anterior capsule in right shoulder,543408
-2018-03-29, Dodgers,Yimi Garcia," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,554340
+2018-03-29, Dodgers,Yimi Garcia," placed on 10 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,554340
 2018-03-29, Giants,Jeff Samardzija, placed on 10 day DL with strained right pectoral muscle,10, strained right pectoral muscle,502188
 2018-03-29, Giants,Julian Fernandez, placed on 60 day DL with sprained UCL in right elbow (out for season),60, sprained UCL in right elbow (out for season),642759
 2018-03-29, Giants,Madison Bumgarner, placed on 10 day DL with fractured finger on left hand,10, fractured finger on left hand,518516
@@ -704,17 +704,17 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-03-29, Indians,Danny Salazar, placed on 10 day DL with right rotator cuff tendinitis,10, right rotator cuff tendinitis,517593
 2018-03-29, Indians,Ryan Merritt, placed on 10 day DL with sprained left knee,10, sprained left knee,607320
 2018-03-29, Marlins,Dan Straily, placed on 10 day DL with right forearm inflammation,10, right forearm inflammation,573185
-2018-03-29, Marlins,Elieser Hernandez, placed on 10 day DL recovering from dental surgery,10,unknown,622694
+2018-03-29, Marlins,Elieser Hernandez, placed on 10 day DL recovering from dental surgery,10,,622694
 2018-03-29, Mets,Jason Vargas, placed on 10 day DL with fractured hamate bone in right hand,10, fractured hamate bone in right hand,450306
 2018-03-29, Orioles,Gabriel Ynoa, placed on 10 day DL with stress reaction in right shin / both shins,10, stress reaction in right shin / both shins,593679
 2018-03-29, Phillies,Jerad Eickhoff, placed on 10 day DL with strained right lat muscle,10, strained right lat muscle,595191
 2018-03-29, Phillies,Mark Leiter Jr., placed on 10 day DL with strained right forearm,10, strained right forearm,643410
 2018-03-29, Phillies,Tommy Hunter, placed on 10 day DL with strained right hamstring,10, strained right hamstring,488984
 2018-03-29, Pirates,A.J. Schugel, placed on 10 day DL with right shoulder injury,10, right shoulder injury,519263
-2018-03-29, Rangers,Martin Perez, placed on 10 day DL recovering from surgery on right elbow,10,unknown,527048
+2018-03-29, Rangers,Martin Perez, placed on 10 day DL recovering from surgery on right elbow,10,on right elbow,527048
 2018-03-29, Rangers,Tony Barnette, placed on 10 day DL with strained lower back,10, strained lower back,501817
 2018-03-29, Red Sox,Austin Maddox, placed on 10 day DL with strained right shoulder,10, strained right shoulder,545348
-2018-03-29, Red Sox,Tyler Thornburg, placed on 10 day DL recovering from surgery on right shoulder (thoracic outlet),10,unknown,592804
+2018-03-29, Red Sox,Tyler Thornburg, placed on 10 day DL recovering from surgery on right shoulder (thoracic outlet),10,on right shoulder (thoracic outlet),592804
 2018-03-29, Reds,Anthony DeSclafani, placed on 60 day DL with strained left oblique,60, strained left oblique,543101
 2018-03-29, Reds,Brandon Finnegan, placed on 10 day DL with strained left biceps,10, strained left biceps,605232
 2018-03-29, Reds,David Hernandez (Jose), placed on 10 day DL with right shoulder inflammation,10, right shoulder inflammation,456696
@@ -723,7 +723,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-03-29, Rockies,Carlos Estevez, placed on 10 day DL with strained left oblique,10, strained left oblique,608032
 2018-03-29, Rockies,Zac Rosscup, placed on 10 day DL with blister on left middle finger,10, blister on left middle finger,573127
 2018-03-29, Royals,Nate Karns, placed on 10 day DL with right elbow inflammation,10, right elbow inflammation,501992
-2018-03-29, Twins,Ervin Santana, placed on 10 day DL recovering from surgery on right middle finger,10,unknown,429722
+2018-03-29, Twins,Ervin Santana, placed on 10 day DL recovering from surgery on right middle finger,10,on right middle finger,429722
 2018-03-29, Twins,Phil Hughes, placed on 10 day DL with strained left oblique muscle,10, strained left oblique muscle,461833
 2018-03-30, Phillies,Pat Neshek, placed on 10 day DL with strained right shoulder,10, strained right shoulder,450212
 2018-03-31, Angels,Ian Kinsler, placed on 10 day DL with strained abductor in left shoulder,10, strained abductor in left shoulder,435079
@@ -740,7 +740,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-04-07, Athletics,Chad Pinder, placed on 10 day DL with hyperextended left knee,10, hyperextended left knee,640461
 2018-04-07, Yankees,Brandon Drury, placed on 10 day DL with migraine headache,10, migraine headache,592273
 2018-04-07, Yankees,C.C. Sabathia, placed on 10 day DL with strained right hip,10, strained right hip,282332
-2018-04-08, Angels,J.C. Ramirez, placed on 10 day DL with surgery on right elbow (out for season),10, surgery on right elbow (out for season),500724
+2018-04-08, Angels,J.C. Ramirez, placed on 10 day DL with surgery on right elbow (out for season),10,on right elbow (out for season),500724
 2018-04-08, Cardinals,Ryan Sherriff, placed on 10 day DL with fractured right big toe,10, fractured right big toe,595411
 2018-04-09, Cubs,Anthony Rizzo, placed on 10 day DL with tightness in lower back,10, tightness in lower back,519203
 2018-04-09, Padres,Kirby Yates, placed on 10 day DL with right ankle tendinitis,10, right ankle tendinitis,489446
@@ -815,7 +815,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-05-11, Mets,Hansel Robles, placed on 10 day DL with sprained right knee,10, sprained right knee,570663
 2018-05-11, Orioles,Chris Tillman, placed on 10 day DL with strained lower back,10, strained lower back,501957
 2018-05-13, Padres,Phil Maton, placed on 10 day DL with strained right lat muscle,10, strained right lat muscle,664208
-2018-05-14, Angels,Keynan Middleton, placed on 10 day DL with surgery on right elbow to repair UCL injury,10, surgery on right elbow to repair UCL injury,641871
+2018-05-14, Angels,Keynan Middleton, placed on 10 day DL with surgery on right elbow to repair UCL injury,10,on right elbow to repair UCL injury,641871
 2018-05-15, Cardinals,Adam Wainwright, placed on 10 day DL with right elbow inflammation,10, right elbow inflammation,425794
 2018-05-15, Padres,Joey Lucchesi, placed on 10 day DL with strained right hip,10, strained right hip,664192
 2018-05-15, Red Sox,Carson Smith, placed on 10 day DL with right shoulder subluxation,10, right shoulder subluxation,605476
@@ -829,7 +829,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-05-23, Rays,Jake Faria, placed on 10 day DL with strained left oblique,10, strained left oblique,607188
 2018-05-23, Reds,Austin Brice, placed on 10 day DL with strained mid back,10, strained mid back,592169
 2018-05-23, Reds,Raisel Iglesias, placed on 10 day DL with strained left biceps,10, strained left biceps,628452
-2018-05-25, Mariners,David Phelps," transferred to 60 day DL placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,475479
+2018-05-25, Mariners,David Phelps," transferred to 60 day DL placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),475479
 2018-05-26, Athletics,Santiago Casilla, placed on 10 day DL with strained right shoulder,10, strained right shoulder,433586
 2018-05-26, Cardinals,Greg Holland, placed on 10 day DL with right hip impingement,10, right hip impingement,518813
 2018-05-26, Cubs,Yu Darvish, placed on 10 day DL with right triceps tendinitis,10, right triceps tendinitis,506433
@@ -881,7 +881,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-06-15, Angels,Garrett Richards, placed on 10 day DL with strained left hamstring,10, strained left hamstring,572070
 2018-06-15, Angels,Nick Tropeano, placed on 10 day DL with right shoulder inflammation,10, right shoulder inflammation,607374
 2018-06-15, Dodgers,Pedro Baez, placed on 10 day DL with right biceps tendinitis,10, right biceps tendinitis,520980
-2018-06-15, Orioles,Richard Bleier, placed on 10 day DL with strained lat muscle / surgery on left shoulder,10, strained lat muscle / surgery on left shoulder,542947
+2018-06-15, Orioles,Richard Bleier, placed on 10 day DL with strained lat muscle / surgery on left shoulder,10,on left shoulder,542947
 2018-06-15, Rangers,Matt Bush, placed on 10 day DL with strained right elbow,10, strained right elbow,456713
 2018-06-16, Braves,Mike Foltynewicz, placed on 10 day DL with tightness in right tricep,10, tightness in right tricep,592314
 2018-06-17, Indians,Carlos Carrasco, placed on 10 day DL with bruised right elbow,10, bruised right elbow,471911
@@ -950,7 +950,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-07-10, Indians,Josh Tomlin, placed on 10 day DL with strained right hamstring,10, strained right hamstring,458708
 2018-07-10, Mariners,Felix Hernandez, placed on 10 day DL with stiffness in lower back,10, stiffness in lower back,433587
 2018-07-10, Nationals,Sean Doolittle, placed on 10 day DL with left big toe inflammation,10, left big toe inflammation,448281
-2018-07-11, Angels,Garrett Richards, placed on 10 day DL with right elbow injury (surgery) (out for season),10, right elbow injury (surgery) (out for season),572070
+2018-07-11, Angels,Garrett Richards, placed on 10 day DL with right elbow injury (surgery) (out for season),10,) (out for season),572070
 2018-07-11, Orioles,Andrew Cashner, placed on 10 day DL with strained neck,10, strained neck,488768
 2018-07-11, Twins,Addison Reed, placed on 10 day DL with right elbow injury / tightness in right triceps,10, right elbow injury / tightness in right triceps,592665
 2018-07-12, Diamondbacks,Shelby Miller, placed on 10 day DL with right elbow inflammation,10, right elbow inflammation,571946
@@ -1068,9 +1068,9 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-08-29, Astros,Charlie Morton, placed on 10 day DL with right shoulder discomfort,10, right shoulder discomfort,450203
 2018-08-29, Cardinals,Jedd Gyorko, placed on 10 day DL with strained left groin,10, strained left groin,576397
 2018-08-29, Reds,Amir Garrett, placed on 10 day DL with bone bruise in left foot,10, bone bruise in left foot,607237
-2018-08-30, Angels,Albert Pujols, placed on 10 day DL with surgery on left knee,10, surgery on left knee,405395
+2018-08-30, Angels,Albert Pujols, placed on 10 day DL with surgery on left knee,10,on left knee,405395
 2018-08-30, Reds,Robert Stephenson, placed on 10 day DL with right shoulder tendinitis,10, right shoulder tendinitis,596112
-2018-09-01, Athletics,Kendall Graveman," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on elbow (out for season)",60," ligament replacement (""Tommy John"") surgery on elbow (out for season)",608665
+2018-09-01, Athletics,Kendall Graveman," placed on 60 day DL with ligament replacement (""Tommy John"") surgery on elbow (out for season)",60,on elbow (out for season),608665
 2018-09-02, Dodgers,Brock Stewart, placed on 60 day DL with strained right oblique muscle (out for season),60, strained right oblique muscle (out for season),592779
 2018-09-03, Indians,Josh Donaldson, placed on 10 day DL with strained left calf,10, strained left calf,518626
 2018-09-04, Blue Jays,Joe Biagini, placed on 10 day DL with strained left oblique,10, strained left oblique,607352
@@ -1083,34 +1083,34 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2018-09-25, Mets,Eric Hanhold, placed on 60 day DL with strained left oblique (out for season),60, strained left oblique (out for season),621098
 2018-10-06, Red Sox,Steven Wright, placed on 10 day DL with left knee inflammation (out for season),10, left knee inflammation (out for season),453214
 2018-10-17, Brewers,Gio Gonzalez, placed on 10 day DL with left high ankle sprain (out for season),10, left high ankle sprain (out for season),461829
-2019-02-13, Athletics,Sean Manaea, placed on 60 day IL recovering from surgery on left shoulder,60,unknown,640455
-2019-02-13, Cubs,Kendall Graveman," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,608665
-2019-02-13, Diamondbacks,Taijuan Walker," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,592836
-2019-02-13, Giants,Johnny Cueto, placed on 60 day IL recovering from surgery on right elbow,60,unknown,456501
-2019-02-13, Marlins,Julian Fernandez, placed on 60 day IL recovering from surgery on right elbow (out for season),60,unknown,642759
-2019-02-13, Royals,Jesse Hahn," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,534910
-2019-02-15, Athletics,Daniel Gossett," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,605254
-2019-02-17, Padres,Garrett Richards," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,572070
-2019-02-19, Brewers,Brent Suter," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,608718
-2019-02-21, Padres,Dinelson Lamet," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on elbow",60,unknown,659275
-2019-02-23, Angels,J.C. Ramirez," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,500724
-2019-03-01, Pirates,Chad Kuhl," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,641771
-2019-03-11, Diamondbacks,Silvino Bracho," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,611093
-2019-03-11, White Sox,Michael Kopech," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,656629
-2019-03-16, Angels,Keynan Middleton," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,641871
+2019-02-13, Athletics,Sean Manaea, placed on 60 day IL recovering from surgery on left shoulder,60,on left shoulder,640455
+2019-02-13, Cubs,Kendall Graveman," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,608665
+2019-02-13, Diamondbacks,Taijuan Walker," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),592836
+2019-02-13, Giants,Johnny Cueto, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,456501
+2019-02-13, Marlins,Julian Fernandez, placed on 60 day IL recovering from surgery on right elbow (out for season),60,on right elbow (out for season),642759
+2019-02-13, Royals,Jesse Hahn," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,534910
+2019-02-15, Athletics,Daniel Gossett," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,605254
+2019-02-17, Padres,Garrett Richards," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,572070
+2019-02-19, Brewers,Brent Suter," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,608718
+2019-02-21, Padres,Dinelson Lamet," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on elbow",60,on elbow,659275
+2019-02-23, Angels,J.C. Ramirez," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,500724
+2019-03-01, Pirates,Chad Kuhl," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,641771
+2019-03-11, Diamondbacks,Silvino Bracho," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,611093
+2019-03-11, White Sox,Michael Kopech," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,656629
+2019-03-16, Angels,Keynan Middleton," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,641871
 2019-03-18, Mariners,Gerson Bautista, placed on 10 day IL with strained right pectoral muscle,10, strained right pectoral muscle,639373
-2019-03-18, Mariners,Sam Tuivailala, placed on 10 day IL recovering from surgery on right Achilles,10,unknown,592815
+2019-03-18, Mariners,Sam Tuivailala, placed on 10 day IL recovering from surgery on right Achilles,10,on right Achilles,592815
 2019-03-18, Mariners,Shawn Armstrong, placed on 10 day IL with strained left/right oblique muscle,10, strained left/right oblique muscle,542888
 2019-03-19, Athletics,Aaron Brooks, placed on temporarily inactive list,0,unknown,605156
 2019-03-19, Athletics,Chris Bassitt, placed on temporarily inactive list,0,unknown,605135
-2019-03-19, Athletics,Jharel Cotton, placed on 10 day IL recovering from surgery on right elbow / shoulder,10,unknown,605194
+2019-03-19, Athletics,Jharel Cotton, placed on 10 day IL recovering from surgery on right elbow / shoulder,10,on right elbow / shoulder,605194
 2019-03-19, Athletics,Nick Martini, placed on 10 day IL with sprained right knee,10, sprained right knee,605361
 2019-03-19, Mariners,Anthony Swarzak, placed on 10 day IL with right shoulder impingement,10, right shoulder impingement,461872
 2019-03-19, Mariners,Felix Hernandez, placed on temporarily inactive list,0,unknown,433587
 2019-03-19, Mariners,Mike Leake, placed on temporarily inactive list,0,unknown,502190
-2019-03-23, Tigers,Michael Fulmer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on elbow",60,unknown,605242
-2019-03-23, Yankees,Jordan Montgomery," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,656756
-2019-03-24, Indians,Danny Salazar, placed on 60 day IL recovering from surgery on right shoulder,60,unknown,517593
+2019-03-23, Tigers,Michael Fulmer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on elbow",60,on elbow,605242
+2019-03-23, Yankees,Jordan Montgomery," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,656756
+2019-03-24, Indians,Danny Salazar, placed on 60 day IL recovering from surgery on right shoulder,60,on right shoulder,517593
 2019-03-25, Cardinals,Brett Cecil, placed on 10 day IL with carpal tunnel syndrome in left hand,10, carpal tunnel syndrome in left hand,446399
 2019-03-25, Cardinals,Jedd Gyorko, placed on 10 day IL with strained right calf,10, strained right calf,576397
 2019-03-25, Cardinals,Luke Gregerson, placed on 10 day IL with right shoulder impingement,10, right shoulder impingement,502381
@@ -1121,8 +1121,8 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-03-26, White Sox,Jon Jay, placed on 10 day IL with strained right hip,10, strained right hip,445055
 2019-03-27, Athletics,Chris Bassitt, placed on 10 day IL with bruised lower right leg,10, bruised lower right leg,605135
 2019-03-27, Brewers,Bobby Wahl, placed on 10 day IL with torn ACL in right knee,10, torn ACL in right knee,592833
-2019-03-27, Brewers,Corey Knebel, placed on 10 day IL recovering from surgery on right elbow,10,unknown,608349
-2019-03-27, Brewers,Jimmy Nelson, placed on 10 day IL recovering from surgery on right shoulder,10,unknown,519076
+2019-03-27, Brewers,Corey Knebel, placed on 10 day IL recovering from surgery on right elbow,10,on right elbow,608349
+2019-03-27, Brewers,Jimmy Nelson, placed on 10 day IL recovering from surgery on right shoulder,10,on right shoulder,519076
 2019-03-27, Nationals,Koda Glover, placed on 10 day IL with strained right forearm,10, strained right forearm,606983
 2019-03-27, Padres,Brett Kennedy, placed on 10 day IL with strained right shoulder,10, strained right shoulder,664028
 2019-03-27, Padres,Jacob Nix, placed on 10 day IL with strained right elbow,10, strained right elbow,656798
@@ -1131,18 +1131,18 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-03-27, Twins,Matt Magill, placed on 10 day IL with right shoulder tendinitis,10, right shoulder tendinitis,543483
 2019-03-28, Angels,Andrew Heaney, placed on 10 day IL with left elbow inflammation,10, left elbow inflammation,571760
 2019-03-28, Angels,Nick Tropeano, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,607374
-2019-03-28, Angels,Shohei Ohtani, placed on 10 day IL recovering from surgery on right elbow to repair ulnar nerve injury,10,unknown,660271
+2019-03-28, Angels,Shohei Ohtani, placed on 10 day IL recovering from surgery on right elbow to repair ulnar nerve injury,10,on right elbow to repair ulnar nerve injury,660271
 2019-03-28, Angels,Taylor Cole, placed on 10 day IL with strained right shoulder,10, strained right shoulder,518566
-2019-03-28, Astros,Lance McCullers Jr., placed on 10 day IL recovering from surgery on right elbow,10,unknown,621121
+2019-03-28, Astros,Lance McCullers Jr., placed on 10 day IL recovering from surgery on right elbow,10,on right elbow,621121
 2019-03-28, Blue Jays,Clay Buchholz, placed on 10 day IL with strained right flexor,10, strained right flexor,453329
-2019-03-28, Blue Jays,David Phelps," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,475479
+2019-03-28, Blue Jays,David Phelps," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,475479
 2019-03-28, Blue Jays,Ryan Borucki, placed on 10 day IL with sore left elbow,10, sore left elbow,621366
 2019-03-28, Braves,A.J. Minter, placed on 10 day IL with left shoulder inflammation / sore left shoulder,10, left shoulder inflammation / sore left shoulder,621345
 2019-03-28, Braves,Darren O'Day, placed on 10 day IL with strained right forearm,10, strained right forearm,503285
 2019-03-28, Braves,Kevin Gausman, placed on 10 day IL with right shoulder inflammation / tendinitis,10, right shoulder inflammation / tendinitis,592332
 2019-03-28, Braves,Mike Foltynewicz, placed on 10 day IL with bone spur in right elbow,10, bone spur in right elbow,592314
 2019-03-28, Brewers,Jeremy Jeffress, placed on 10 day IL with right shoulder inflammation / sore right shoulder,10, right shoulder inflammation / sore right shoulder,502026
-2019-03-28, Cubs,Brandon Morrow, placed on 10 day IL recovering from surgery on right elbow,10,unknown,453344
+2019-03-28, Cubs,Brandon Morrow, placed on 10 day IL recovering from surgery on right elbow,10,on right elbow,453344
 2019-03-28, Cubs,Tony Barnette, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,501817
 2019-03-28, Cubs,Xavier Cedeno, placed on 10 day IL with left wrist inflammation,10, left wrist inflammation,458584
 2019-03-28, Diamondbacks,T.J. McFarland, placed on 10 day IL with left shoulder inflammation,10, left shoulder inflammation,519008
@@ -1152,26 +1152,26 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-03-28, Phillies,Roman Quinn, placed on 10 day IL with strained right oblique muscle,10, strained right oblique muscle,596451
 2019-03-28, Phillies,Tommy Hunter, placed on 10 day IL with strained right forearm,10, strained right forearm,488984
 2019-03-28, Pirates,Dovydas Neverauskas, placed on 10 day IL with strained left oblique,10, strained left oblique,596720
-2019-03-28, Pirates,Edgar Santana, placed on 60 day IL recovering from surgery on right elbow,60,unknown,650828
+2019-03-28, Pirates,Edgar Santana, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,650828
 2019-03-28, Pirates,Jordan Lyles, placed on 10 day IL with right side injury,10, right side injury,543475
 2019-03-28, Pirates,Jose Osuna, placed on 10 day IL with neck injury,10, neck injury,591741
 2019-03-28, Rangers,Luke Farrell, placed on 60 day IL with fractured jaw,60, fractured jaw,608652
 2019-03-28, Rangers,Yohander Mendez, placed on 10 day IL with sprained UCL in right elbow,10, sprained UCL in right elbow,622795
-2019-03-28, Rays,Anthony Banda," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",10,unknown,607455
-2019-03-28, Reds,Alex Blandino, placed on 10 day IL recovering from surgery on right knee,10,unknown,607468
+2019-03-28, Rays,Anthony Banda," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",10,on left elbow,607455
+2019-03-28, Reds,Alex Blandino, placed on 10 day IL recovering from surgery on right knee,10,on right knee,607468
 2019-03-28, Reds,Alex Wood, placed on 10 day IL with stiffness in back,10, stiffness in back,622072
 2019-03-28, Rockies,Antonio Senzatela, placed on 10 day IL with infected blister on right heel,10, infected blister on right heel,622608
 2019-03-28, Rockies,Chris Rusin, placed on 10 day IL with strained back,10, strained back,543734
 2019-03-28, Royals,Brian Flynn, placed on 10 day IL with sprained UCL in elbow,10, sprained UCL in elbow,543169
 2019-03-28, Royals,Danny Duffy, placed on 10 day IL with left shoulder impingement,10, left shoulder impingement,518633
-2019-03-28, Royals,Trevor Oaks, placed on 60 day IL with surgery on right hip to repair torn labrum,60, surgery on right hip to repair torn labrum,656805
-2019-03-28, Yankees,Ben Heller, placed on 10 day IL recovering from surgery on right elbow,10,unknown,621294
+2019-03-28, Royals,Trevor Oaks, placed on 60 day IL with surgery on right hip to repair torn labrum,60,on right hip to repair torn labrum,656805
+2019-03-28, Yankees,Ben Heller, placed on 10 day IL recovering from surgery on right elbow,10,on right elbow,621294
 2019-03-28, Yankees,Dellin Betances, placed on 10 day IL with right shoulder impingement,10, right shoulder impingement,476454
 2019-03-28, Yankees,Luis Severino, placed on 10 day IL with rotator cuff inflammation in right shoulder,10, rotator cuff inflammation in right shoulder,622663
 2019-03-30, Mariners,Hunter Strickland, placed on 10 day IL with strained right lat muscle in back,10, strained right lat muscle in back,519326
 2019-04-01, Blue Jays,Clayton Richard, placed on 10 day IL with stress reaction in right knee,10, stress reaction in right knee,453385
 2019-04-02, Rockies,Jake McGee, placed on 10 day IL with sprained left knee,10, sprained left knee,459429
-2019-04-03, Yankees,C.C. Sabathia, placed on 10 day IL recovering from heart surgery,10,unknown,282332
+2019-04-03, Yankees,C.C. Sabathia, placed on 10 day IL recovering from heart surgery,10,,282332
 2019-04-04, Pirates,Corey Dickerson, placed on 10 day IL with strained right shoulder,10, strained right shoulder,572816
 2019-04-05, Diamondbacks,Jake Lamb, placed on 10 day IL with strained left quadriceps,10, strained left quadriceps,571875
 2019-04-05, Pirates,Kyle Crick, placed on 10 day IL with tightness in right triceps,10, tightness in right triceps,605195
@@ -1364,7 +1364,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-07-11, Nationals,Jonny Venters, placed on 10 day IL with strained left shoulder,10, strained left shoulder,458924
 2019-07-12, Braves,Grant Dayton, placed on 7 day IL with fractured right big toe,7, fractured right big toe,594795
 2019-07-12, Rays,Chaz Roe, placed on 10 day IL with strained right flexor,10, strained right flexor,475054
-2019-07-12, Indians,Cody Anderson, placed on 60 day IL with surgery on right elbow,60, surgery on right elbow,594736
+2019-07-12, Indians,Cody Anderson, placed on 60 day IL with surgery on right elbow,60,on right elbow,594736
 2019-07-13, Nationals,Max Scherzer, placed on 10 day IL with strained mid back / inflamed bursa sac in back/shoulder,10, strained mid back / inflamed bursa sac in back/shoulder,453286
 2019-07-13, Orioles,Dylan Bundy, placed on 10 day IL with right knee tendinitis,10, right knee tendinitis,605164
 2019-07-13, Phillies,Sean Rodriguez, placed on 10 day IL with strained right abdominal,10, strained right abdominal,446481
@@ -1454,7 +1454,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-08-21, Pirates,Chris Archer, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,502042
 2019-08-21, Pirates,Clay Holmes, placed on 10 day IL with left quadriceps injury,10, left quadriceps injury,605280
 2019-08-21, Rockies,Jon Gray, placed on 60 day IL with fractured left foot,60, fractured left foot,592351
-2019-08-22, Astros,Ryan Pressly, placed on 10 day IL with arthroscopic surgery on right knee,10, arthroscopic surgery on right knee,519151
+2019-08-22, Astros,Ryan Pressly, placed on 10 day IL with arthroscopic surgery on right knee,10,on right knee,519151
 2019-08-22, Rockies,Kyle Freeland, placed on 10 day IL with strained left groin,10, strained left groin,607536
 2019-08-22, Royals,Jake Newberry, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,623470
 2019-08-23, Angels,Griffin Canning, placed on 10 day IL with right elbow inflammation,10, right elbow inflammation,656288
@@ -1473,19 +1473,19 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-08-29, Pirates,Yefry Ramirez, placed on 10 day IL with strained right calf,10, strained right calf,606162
 2019-08-30, Cardinals,Lane Thomas, placed on 10 day IL with fractured right wrist,10, fractured right wrist,657041
 2019-08-30, Padres,Francisco Mejia, placed on 10 day IL with strained right oblique muscle,10, strained right oblique muscle,642336
-2019-08-30, White Sox,Jon Jay, placed on 10 day IL with surgery on right hip,10, surgery on right hip,445055
+2019-08-30, White Sox,Jon Jay, placed on 10 day IL with surgery on right hip,10,on right hip,445055
 2019-08-31, Angels,Cam Bedrosian, placed on 10 day IL with strained right forearm (out for season),10, strained right forearm (out for season),592135
 2019-08-31, Astros,Collin McHugh, placed on 10 day IL with sore right elbow (out for season),10, sore right elbow (out for season),543521
 2019-08-31, Yankees,C.C. Sabathia, placed on 10 day IL with right knee inflammation,10, right knee inflammation,282332
 2019-09-01, Twins,Kyle Gibson, placed on 10 day IL with ulcerative colitis,10, ulcerative colitis,502043
 2019-09-01, Phillies,Jerad Eickhoff, placed on 60 day IL with blister/laceration on right middle finger,60, blister/laceration on right middle finger,595191
 2019-09-01, Twins,Sean Poppen, placed on 60 day IL with bruised right elbow,60, bruised right elbow,664092
-2019-09-03, Giants,Pablo Sandoval, placed on 60 day IL with surgery on right elbow,60, surgery on right elbow,467055
+2019-09-03, Giants,Pablo Sandoval, placed on 60 day IL with surgery on right elbow,60,on right elbow,467055
 2019-09-05, Cubs,Craig Kimbrel, placed on 10 day IL with right elbow inflammation,10, right elbow inflammation,518886
 2019-09-10, Yankees,Mike Tauchman, placed on 10 day IL with strained left calf (out for season),10, strained left calf (out for season),643565
 2019-09-11, Rays,Hoby Milner, placed on 60 day IL with cervical nerve injury,60, cervical nerve injury,571948
 2019-09-12, Braves,A.J. Minter, placed on 60 day IL with left shoulder inflammation,60, left shoulder inflammation,621345
-2019-09-13, Pirates,Kyle Crick, placed on 60 day IL with surgery on right index finger,60, surgery on right index finger,605195
+2019-09-13, Pirates,Kyle Crick, placed on 60 day IL with surgery on right index finger,60,on right index finger,605195
 2019-09-15, Giants,Tony Watson, placed on 60 day IL with fractured left wrist,60, fractured left wrist,453265
 2019-09-16, Tigers,Daniel Stumpf, placed on 60 day IL with strained left elbow,60, strained left elbow,621385
 2019-09-17, Phillies,Corey Dickerson, placed on 60 day IL with fractured left foot,60, fractured left foot,572816
@@ -1493,25 +1493,25 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2019-09-18, Blue Jays,Tim Mayza, placed on 60 day IL with torn UCL in left elbow,60, torn UCL in left elbow,641835
 2019-09-18, Yankees,Dellin Betances, placed on 60 day IL with partially torn left Achilles tendon,60, partially torn left Achilles tendon,476454
 2019-09-19, White Sox,Dylan Covey, placed on 10 day IL with sore right shoulder (out for season),10, sore right shoulder (out for season),592229
-2020-02-12, Cardinals,Jordan Hicks, placed on 60 day IL recovering from surgery on right elbow,60,unknown,663855
-2020-02-12, Giants,Reyes Moronta, placed on 60 day IL recovering from surgery on right shoulder,60,unknown,606625
-2020-02-12, Padres,Anderson Espinoza," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,659262
-2020-02-12, Phillies,David Robertson," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,502085
-2020-02-12, Tigers,Michael Fulmer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,605242
-2020-02-13, Pirates,Jameson Taillon," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on elbow",60," ligament replacement (""Tommy John"") surgery on elbow",592791
-2020-02-15, Athletics,Daniel Mengden, placed on 60 day IL recovering from surgery on right elbow,60,unknown,596043
+2020-02-12, Cardinals,Jordan Hicks, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,663855
+2020-02-12, Giants,Reyes Moronta, placed on 60 day IL recovering from surgery on right shoulder,60,on right shoulder,606625
+2020-02-12, Padres,Anderson Espinoza," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,659262
+2020-02-12, Phillies,David Robertson," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,502085
+2020-02-12, Tigers,Michael Fulmer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,605242
+2020-02-13, Pirates,Jameson Taillon," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on elbow",60,on elbow,592791
+2020-02-15, Athletics,Daniel Mengden, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,596043
 2020-03-15, Blue Jays,Yennsy Diaz, placed on 60 day IL with strained lat muscle in back,60, strained lat muscle in back,660546
 2020-06-26, Braves,Jeremy Walker, placed on 45 day IL with right shoulder injury,0, right shoulder injury,668683
-2020-06-27, Cardinals,John Brebbia," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,605154
-2020-06-27, Mets,Noah Syndergaard," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,592789
-2020-06-28, Diamondbacks,Silvino Bracho," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,611093
-2020-06-28, Giants,Tyler Beede," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,595881
-2020-06-28, Padres,Andres Munoz," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,662253
-2020-06-28, Phillies,Seranthony Dominguez," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,622554
-2020-06-28, Pirates,Chris Archer, placed on 60 day IL recovering from surgery on neck,60,unknown,502042
-2020-06-28, Rangers,Brock Burke, placed on 60 day IL recovering from surgery on left shoulder,60,unknown,656271
-2020-06-28, Red Sox,Chris Sale," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,519242
-2020-06-28, Yankees,Luis Severino," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,622663
+2020-06-27, Cardinals,John Brebbia," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,605154
+2020-06-27, Mets,Noah Syndergaard," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,592789
+2020-06-28, Diamondbacks,Silvino Bracho," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,611093
+2020-06-28, Giants,Tyler Beede," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,595881
+2020-06-28, Padres,Andres Munoz," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,662253
+2020-06-28, Phillies,Seranthony Dominguez," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,622554
+2020-06-28, Pirates,Chris Archer, placed on 60 day IL recovering from surgery on neck,60,on neck,502042
+2020-06-28, Rangers,Brock Burke, placed on 60 day IL recovering from surgery on left shoulder,60,on left shoulder,656271
+2020-06-28, Red Sox,Chris Sale," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,519242
+2020-06-28, Yankees,Luis Severino," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,622663
 2020-07-01, Blue Jays,Brandon Drury, placed on 10 day IL,10,unknown,592273
 2020-07-01, Blue Jays,Elvis Luciano, placed on 10 day IL,10,unknown,672773
 2020-07-01, Blue Jays,Hector Perez, placed on 10 day IL,10,unknown,660431
@@ -1552,16 +1552,16 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-07-18, Tigers,Jordan Zimmermann (M.), placed on 60 day IL with strained right forearm,60, strained right forearm,519455
 2020-07-20, Yankees,Masahiro Tanaka, placed on 7 day IL with concussion,7, concussion,547888
 2020-07-21, Brewers,Ray Black, placed on 10 day IL with strained rotator cuff in right shoulder,10, strained rotator cuff in right shoulder,605143
-2020-07-21, Dodgers,Jimmy Nelson, placed on 60 day IL recovering from surgery on lower back,60,unknown,519076
+2020-07-21, Dodgers,Jimmy Nelson, placed on 60 day IL recovering from surgery on lower back,60,on lower back,519076
 2020-07-22, Athletics,A.J. Puk, placed on 10 day IL with strained left shoulder,10, strained left shoulder,640462
-2020-07-22, Diamondbacks,Corbin Martin," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,656686
+2020-07-22, Diamondbacks,Corbin Martin," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,656686
 2020-07-22, Mariners,Gerson Bautista, placed on 60 day IL with sprained UCL in right elbow,60, sprained UCL in right elbow,639373
 2020-07-22, Mets,Marcus Stroman, placed on 10 day IL with torn left calf muscle,10, torn left calf muscle,573186
 2020-07-22, Mets,Robert Gsellman (John), placed on 10 day IL with tightness in right triceps,10, tightness in right triceps,607229
 2020-07-22, Orioles,Dillon Tate, placed on 10 day IL with bruised right elbow,10, bruised right elbow,622253
 2020-07-22, Orioles,Hunter Harvey, placed on 10 day IL with sore/strained right elbow,10, sore/strained right elbow,640451
 2020-07-22, Orioles,John Means, placed on 10 day IL with left shoulder fatigue,10, left shoulder fatigue,607644
-2020-07-22, Padres,Trey Wingenter," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,622259
+2020-07-22, Padres,Trey Wingenter," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,622259
 2020-07-22, Royals,Hunter Dozier, placed on 10 day IL with COVID 19 coronavirus,10, COVID 19 coronavirus,641531
 2020-07-23, Astros,Austin Pruitt, placed on 10 day IL with sore right elbow,10, sore right elbow,643493
 2020-07-23, Astros,Brad Peacock, placed on 10 day IL with strained right shoulder,10, strained right shoulder,502748
@@ -1575,7 +1575,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-07-23, Rangers,Rafael Montero, placed on 10 day IL with right elbow tendinitis,10, right elbow tendinitis,606160
 2020-07-23, Rays,Brendan McKay, placed on 10 day IL with COVID 19 coronavirus,10, COVID 19 coronavirus,656713
 2020-07-23, Reds,Anthony DeSclafani, placed on 10 day IL with strained right teres major muscle,10, strained right teres major muscle,543101
-2020-07-23, Rockies,Peter Lambert," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on right elbow",60," ligament replacement (""Tommy John"") surgery on right elbow",663567
+2020-07-23, Rockies,Peter Lambert," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,663567
 2020-07-23, Rockies,Scott Oberg, placed on 10 day IL with strained lower back,10, strained lower back,623184
 2020-07-23, Royals,Chance Adams, placed on 10 day IL with undisclosed injury,10, undisclosed injury,664856
 2020-07-23, Royals,Randy Rosario, placed on 10 day IL with tightness in left arm,10, tightness in left arm,600968
@@ -1589,7 +1589,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-07-27, White Sox,Reynaldo Lopez, placed on 10 day IL with strained right shoulder,10, strained right shoulder,625643
 2020-07-28, Angels,Andrelton Simmons, placed on 10 day IL with sprained left ankle,10, sprained left ankle,592743
 2020-07-28, Astros,Joe Biagini, placed on 10 day IL with sore right shoulder,10, sore right shoulder,607352
-2020-07-28, Cardinals,Miles Mikolas, placed on 10 day IL with strained flexor tendon in right forearm (surgery),10, strained flexor tendon in right forearm (surgery),571945
+2020-07-28, Cardinals,Miles Mikolas, placed on 10 day IL with strained flexor tendon in right forearm (surgery),10,),571945
 2020-07-28, Dodgers,Alex Wood, placed on 10 day IL with left shoulder inflammation,10, left shoulder inflammation,622072
 2020-07-28, Pirates,Clay Holmes, placed on 10 day IL with strained right forearm,10, strained right forearm,605280
 2020-07-28, Pirates,Kyle Crick, placed on 10 day IL with strained right shoulder / lat muscle,10, strained right shoulder / lat muscle,605195
@@ -1604,7 +1604,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-07-31, Giants,Sam Coonrod, placed on 10 day IL with strained right lat muscle,10, strained right lat muscle,656322
 2020-07-31, Nationals,Will Harris, placed on 10 day IL with strained right groin,10, strained right groin,501789
 2020-07-31, Reds,Wade Miley, placed on 10 day IL with strained left groin,10, strained left groin,489119
-2020-07-31, Yankees,Tommy Kahnle, placed on 10 day IL with UCL injury in right elbow (surgery),10, UCL injury in right elbow (surgery),592454
+2020-07-31, Yankees,Tommy Kahnle, placed on 10 day IL with UCL injury in right elbow (surgery),10,),592454
 2020-08-01, Astros,Chris Devenski, placed on 10 day IL with sore right elbow,10, sore right elbow,606965
 2020-08-01, Twins,Zack Littell, placed on 10 day IL with strained left hamstring,10, strained left hamstring,641793
 2020-08-02, Astros,Roberto Osuna, placed on 10 day IL with sore right elbow,10, sore right elbow,532077
@@ -1678,7 +1678,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-08-18, Rangers,Joe Palumbo, placed on 10 day IL with COVID 19 coronavirus intake testing,10, COVID 19 coronavirus intake testing,643478
 2020-08-19, Blue Jays,Nate Pearson, placed on 10 day IL with tightness in right elbow / strained flexor in right elbow,10, tightness in right elbow / strained flexor in right elbow,663878
 2020-08-19, Diamondbacks,Andrew Chafin, placed on 10 day IL with sprained left finger,10, sprained left finger,605177
-2020-08-19, Rays,Yonny Chirinos," placed on 10 day IL with ligament replacement (""Tommy John"") surgery on right elbow (out for season)",10," ligament replacement (""Tommy John"") surgery on right elbow (out for season)",630023
+2020-08-19, Rays,Yonny Chirinos," placed on 10 day IL with ligament replacement (""Tommy John"") surgery on right elbow (out for season)",10,on right elbow (out for season),630023
 2020-08-19, Tigers,Harold Castro, placed on 10 day IL with strained left hamstring,10, strained left hamstring,605612
 2020-08-20, Brewers,Corey Knebel, placed on 10 day IL with strained left hamstring,10, strained left hamstring,608349
 2020-08-20, Dodgers,Pedro Baez, placed on 10 day IL with strained right groin,10, strained right groin,520980
@@ -1706,7 +1706,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-08-24, Yankees,James Paxton, placed on 10 day IL with strained flexor in left forearm,10, strained flexor in left forearm,572020
 2020-08-24, Pirates,Carson Fulmer, placed on 10 day IL with COVID 19 coronavirus intake testing,10, COVID 19 coronavirus intake testing,608334
 2020-08-25, Yankees,Luis Avilan, placed on 10 day IL with left shoulder inflammation,10, left shoulder inflammation,501593
-2020-08-26, Rays,Jalen Beeks," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,656222
+2020-08-26, Rays,Jalen Beeks," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,656222
 2020-08-27, Dodgers,Walker Buehler, placed on 10 day IL with blister on right hand,10, blister on right hand,621111
 2020-08-27, Pirates,Keone Kela, placed on 10 day IL with tightness in right forearm (out for season),10, tightness in right forearm (out for season),605309
 2020-08-28, Mariners,Matt Magill, placed on 10 day IL with strained right shoulder,10, strained right shoulder,543483
@@ -1809,55 +1809,55 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2020-10-07, Padres,Mike Clevinger, placed on 10 day IL with right posterior elbow impingement (out for season),10, right posterior elbow impingement (out for season),605182
 2020-10-08, Rays,Oliver Drake, placed on 10 day IL with strained right flexor tendon,10, strained right flexor tendon,543118
 2021-02-17, Cubs,Kyle Ryan, placed on 10 day IL with COVID 19 positive test,10, COVID 19 positive test,594986
-2021-02-17, Giants,John Brebbia," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,605154
+2021-02-17, Giants,John Brebbia," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,605154
 2021-02-17, Marlins,Jeff Brigham, placed on 60 day IL,60,unknown,656257
-2021-02-17, Phillies,Seranthony Dominguez," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on elbow",60," ligament replacement (""Tommy John"") surgery on elbow",622554
-2021-02-17, Pirates,Jose Soriano," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on right elbow",60," ligament replacement (""Tommy John"") surgery on right elbow",667755
-2021-02-17, Rays,Jalen Beeks," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,656222
+2021-02-17, Phillies,Seranthony Dominguez," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on elbow",60,on elbow,622554
+2021-02-17, Pirates,Jose Soriano," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,667755
+2021-02-17, Rays,Jalen Beeks," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,656222
 2021-02-17, Red Sox,Kevin Plawecki, placed on 10 day IL with COVID 19 positive test,10, COVID 19 positive test,608700
-2021-02-18, Mariners,Andres Munoz," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,662253
-2021-02-18, Padres,Mike Clevinger," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,605182
-2021-02-18, Padres,Trey Wingenter," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,622259
-2021-02-18, Red Sox,Chris Sale," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,519242
-2021-02-19, Dodgers,Caleb Ferguson," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,657571
-2021-02-20, Mets,Noah Syndergaard," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,592789
+2021-02-18, Mariners,Andres Munoz," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,662253
+2021-02-18, Padres,Mike Clevinger," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,605182
+2021-02-18, Padres,Trey Wingenter," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,622259
+2021-02-18, Red Sox,Chris Sale," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,519242
+2021-02-19, Dodgers,Caleb Ferguson," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,657571
+2021-02-20, Mets,Noah Syndergaard," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,592789
 2021-02-21, Diamondbacks,Luis Frias, placed on 10 day IL with COVID 19 positive test,10, COVID 19 positive test,666818
 2021-02-22, Rays,Oliver Drake, placed on 60 day IL with strained flexor tendon in right elbow,60, strained flexor tendon in right elbow,543118
-2021-02-22, Rays,Yonny Chirinos," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,630023
-2021-02-22, Yankees,Luis Severino," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,622663
-2021-02-26, Giants,Tyler Beede," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,595881
-2021-02-27, Astros,Justin Verlander," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,434378
+2021-02-22, Rays,Yonny Chirinos," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,630023
+2021-02-22, Yankees,Luis Severino," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,622663
+2021-02-26, Giants,Tyler Beede," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,595881
+2021-02-27, Astros,Justin Verlander," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,434378
 2021-03-08, Astros,Pedro Baez, placed on 10 day IL with COVID 19 positive test,10, COVID 19 positive test,520980
 2021-03-12, Pirates,Blake Cederlind, placed on 60 day IL with strained UCL in right elbow,60, strained UCL in right elbow,664977
 2021-03-16, Orioles,Hunter Harvey, placed on 60 day IL with strained left oblique,60, strained left oblique,640451
 2021-03-19, Tigers,Spencer Turnbull, placed on 10 day IL with COVID 19 exposure / positive test,10, COVID 19 exposure / positive test,605513
-2021-03-20, Rockies,Peter Lambert," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,663567
-2021-03-21, White Sox,Jimmy Cordero," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on elbow",60," ligament replacement (""Tommy John"") surgery on elbow",622772
+2021-03-20, Rockies,Peter Lambert," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,663567
+2021-03-21, White Sox,Jimmy Cordero," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on elbow",60,on elbow,622772
 2021-03-26, Braves,Touki Toussaint, placed on 60 day IL with strained right shoulder,60, strained right shoulder,657053
-2021-03-27, Indians,Cam Hill, placed on 60 day IL recovering from surgery on right wrist,60,unknown,657611
+2021-03-27, Indians,Cam Hill, placed on 60 day IL recovering from surgery on right wrist,60,on right wrist,657611
 2021-03-27, Rockies,Scott Oberg, placed on 60 day IL recovering from procedure to relieve blood clots in right arm,60,unknown,623184
 2021-03-27, Yankees,Clarke Schmidt, placed on 60 day IL with strained extensor in right elbow,60, strained extensor in right elbow,657376
 2021-03-29, Angels,Luke Bard, placed on 60 day IL with sore right hip,60, sore right hip,572703
 2021-03-29, Diamondbacks,Tyler Clippard, placed on 60 day IL with sprained / strained right shoulder,60, sprained / strained right shoulder,461325
 2021-03-30, Rangers,Jonathan Hernandez, placed on 60 day IL with sprained UCL in right elbow,60, sprained UCL in right elbow,642546
-2021-03-30, Rangers,Jose Leclerc," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on right elbow",60," ligament replacement (""Tommy John"") surgery on right elbow",600917
+2021-03-30, Rangers,Jose Leclerc," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,600917
 2021-03-30, Twins,Edwar Colina, placed on 10 day IL with right elbow inflammation,10, right elbow inflammation,666674
-2021-03-31, Mariners,Ken Giles," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,571704
+2021-03-31, Mariners,Ken Giles," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,571704
 2021-03-31, Nationals,Will Harris, placed on 10 day IL with blood clot in right arm,10, blood clot in right arm,501789
 2021-04-01, Astros,Andre Scrubb, placed on 10 day IL with sore/strained right shoulder,10, sore/strained right shoulder,668687
-2021-04-01, Astros,Austin Pruitt, placed on 10 day IL recovering from surgery on right elbow,10,unknown,643493
+2021-04-01, Astros,Austin Pruitt, placed on 10 day IL recovering from surgery on right elbow,10,on right elbow,643493
 2021-04-01, Astros,Framber Valdez, placed on 10 day IL with fractured left ring finger,10, fractured left ring finger,664285
-2021-04-01, Astros,Josh James, placed on 10 day IL recovering from surgery on left hip,10,unknown,657624
+2021-04-01, Astros,Josh James, placed on 10 day IL recovering from surgery on left hip,10,on left hip,657624
 2021-04-01, Athletics,Mike Fiers, placed on 10 day IL with hip injury / lumbar strain,10, hip injury / lumbar strain,571666
 2021-04-01, Athletics,Trevor Rosenthal, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,572096
-2021-04-01, Blue Jays,Kirby Yates, placed on 10 day IL recovering from surgery on right elbow to remove bone chips,10,unknown,489446
+2021-04-01, Blue Jays,Kirby Yates, placed on 10 day IL recovering from surgery on right elbow to remove bone chips,10,on right elbow to remove bone chips,489446
 2021-04-01, Blue Jays,Nate Pearson, placed on 10 day IL with strained right adductor,10, strained right adductor,663878
 2021-04-01, Blue Jays,Robbie Ray, placed on 10 day IL with bruised left elbow,10, bruised left elbow,592662
 2021-04-01, Blue Jays,Thomas Hatch, placed on 10 day IL with right elbow impingement,10, right elbow impingement,641672
 2021-04-01, Brewers,Bobby Wahl, placed on 10 day IL with strained right oblique muscle,10, strained right oblique muscle,592833
 2021-04-01, Brewers,Justin Topa, placed on 10 day IL with strained flexor tendon in right hip,10, strained flexor tendon in right hip,623437
-2021-04-01, Cardinals,Dakota Hudson, placed on 10 day IL recovering from surgery on right elbow,10,unknown,641712
-2021-04-01, Cardinals,Miles Mikolas," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,571945
+2021-04-01, Cardinals,Dakota Hudson, placed on 10 day IL recovering from surgery on right elbow,10,on right elbow,641712
+2021-04-01, Cardinals,Miles Mikolas," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,571945
 2021-04-01, Cubs,Austin Romine, placed on 10 day IL with sprained right knee,10, sprained right knee,519222
 2021-04-01, Cubs,Jonathan Holder, placed on 10 day IL with strained right shoulder,10, strained right shoulder,656547
 2021-04-01, Cubs,Rowan Wick, placed on 10 day IL with strained left oblique,10, strained left oblique,592858
@@ -1867,13 +1867,13 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-04-01, Mets,Carlos Carrasco, placed on 10 day IL with strained right hamstring,10, strained right hamstring,471911
 2021-04-01, Padres,Dan Altavilla, placed on 10 day IL with strained right calf,10, strained right calf,656186
 2021-04-01, Padres,Dinelson Lamet, placed on 10 day IL with strained UCL in right elbow,10, strained UCL in right elbow,659275
-2021-04-01, Padres,Matt Strahm, placed on 10 day IL recovering from surgery on right knee to repair torn patellar tendon,10,unknown,621381
-2021-04-01, Padres,Michel Baez, placed on 60 day IL with surgery on right elbow,60, surgery on right elbow,673258
+2021-04-01, Padres,Matt Strahm, placed on 10 day IL recovering from surgery on right knee to repair torn patellar tendon,10,on right knee to repair torn patellar tendon,621381
+2021-04-01, Padres,Michel Baez, placed on 60 day IL with surgery on right elbow,60,on right elbow,673258
 2021-04-01, Padres,Pierce Johnson, placed on 10 day IL with strained adductor in right groin,10, strained adductor in right groin,572955
 2021-04-01, Pirates,Cody Ponce, placed on 10 day IL with tightness in right forearm,10, tightness in right forearm,664074
 2021-04-01, Pirates,Kyle Crick, placed on COVID 19 IL with intake testing,0, intake testing,605195
 2021-04-01, Pirates,Steven Brault, placed on 60 day IL with strained left lat muscle,60, strained left lat muscle,643230
-2021-04-01, Rangers,Brock Burke, placed on 10 day IL recovering from surgery on left shoulder,10,unknown,656271
+2021-04-01, Rangers,Brock Burke, placed on 10 day IL recovering from surgery on left shoulder,10,on left shoulder,656271
 2021-04-01, Rangers,Demarcus Evans, placed on 10 day IL with strained right lat muscle,10, strained right lat muscle,663770
 2021-04-01, Rangers,Joely Rodriguez, placed on 10 day IL with sprained left ankle,10, sprained left ankle,570257
 2021-04-01, Rays,Brett Phillips, placed on 10 day IL with strained left hamstring,10, strained left hamstring,621433
@@ -1882,7 +1882,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-04-01, Reds,Sonny Gray, placed on 10 day IL with strained muscle in back / back spasms,10, strained muscle in back / back spasms,543243
 2021-04-01, Rockies,Kyle Freeland, placed on 10 day IL with strained left shoulder,10, strained left shoulder,607536
 2021-04-01, Tigers,Rony Garcia, placed on 10 day IL with strained abdominal,10, strained abdominal,665621
-2021-04-01, White Sox,Jace Fry, placed on 10 day IL recovering from microdisectomy surgery on back,10,unknown,605240
+2021-04-01, White Sox,Jace Fry, placed on 10 day IL recovering from microdisectomy surgery on back,10,on back,605240
 2021-04-03, Braves,Ehire Adrianza, placed on 10 day IL with COVID 19 intake testing,10, COVID 19 intake testing,501303
 2021-04-03, Twins,Josh Donaldson, placed on 10 day IL with strained right hamstring,10, strained right hamstring,518626
 2021-04-04, Dodgers,Tony Gonsolin, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,664062
@@ -1992,7 +1992,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-05-02, Athletics,Jesus Luzardo, placed on 10 day IL with fractured left hand,10, fractured left hand,666200
 2021-05-02, Blue Jays,Anthony Castro, placed on 10 day IL with strained right forearm,10, strained right forearm,621593
 2021-05-02, Blue Jays,Tommy Milone, placed on 10 day IL with left shoulder inflammation,10, left shoulder inflammation,543548
-2021-05-02, Dodgers,Dustin May," placed on 10 day IL with ligament replacement (""Tommy John"") surgery on right elbow",10," ligament replacement (""Tommy John"") surgery on right elbow",669160
+2021-05-02, Dodgers,Dustin May," placed on 10 day IL with ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,669160
 2021-05-02, Mariners,Casey Sadler, placed on 10 day IL with right shoulder inflammation,10, right shoulder inflammation,594987
 2021-05-03, Angels,Mike Mayers, placed on 10 day IL with undisclosed,10, undisclosed,594577
 2021-05-03, Mets,J.D. Davis, placed on 10 day IL with sprained left hand,10, sprained left hand,605204
@@ -2110,7 +2110,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-06-01, Reds,Michael Feliz, placed on 10 day IL with undisclosed injury,10, undisclosed injury,593140
 2021-06-02, Blue Jays,A.J. Cole, placed on 10 day IL with tightness in neck,10, tightness in neck,595918
 2021-06-02, Nationals,Stephen Strasburg, placed on 10 day IL with strained neck,10, strained neck,544931
-2021-06-02, Twins,Mitch Garver, placed on 10 day IL with surgery on groin,10, surgery on groin,641598
+2021-06-02, Twins,Mitch Garver, placed on 10 day IL with surgery on groin,10,on groin,641598
 2021-06-03, Diamondbacks,Madison Bumgarner, placed on 10 day IL with left shoulder inflammation,10, left shoulder inflammation,518516
 2021-06-03, Giants,Logan Webb, placed on 10 day IL with strained right shoulder,10, strained right shoulder,657277
 2021-06-03, Twins,Caleb Thielbar, placed on 10 day IL with strained left groin,10, strained left groin,573204
@@ -2159,7 +2159,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-06-17, Indians,Austin Hedges, placed on 7 day IL with concussion,7, concussion,595978
 2021-06-17, Rockies,Mychal Givens, placed on 10 day IL with strained left lower back,10, strained left lower back,571710
 2021-06-18, Orioles,Bruce Zimmermann, placed on 10 day IL with left biceps tendinitis,10, left biceps tendinitis,669145
-2021-06-19, Mets,Joey Lucchesi, placed on 10 day IL with left elbow inflammation (surgery),10, left elbow inflammation (surgery),664192
+2021-06-19, Mets,Joey Lucchesi, placed on 10 day IL with left elbow inflammation (surgery),10,),664192
 2021-06-19, Padres,Pierce Johnson, placed on 10 day IL with right triceps inflammation,10, right triceps inflammation,572955
 2021-06-19, Phillies,Andrew Knapp, placed on 7 day IL with concussion,7, concussion,595284
 2021-06-20, Diamondbacks,Carson Kelly, placed on 10 day IL with fractured right wrist,10, fractured right wrist,608348
@@ -2369,7 +2369,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-08-25, Indians,Triston McKenzie, placed on 10 day IL with right shoulder fatigue,10, right shoulder fatigue,663474
 2021-08-25, Pirates,J.T. Brubaker, placed on 10 day IL with bruised right thumb,10, bruised right thumb,664141
 2021-08-25, Rangers,Dane Dunning, placed on 10 day IL with COVID 19,10, COVID 19,641540
-2021-08-25, Reds,Tejay Antone, placed on 10 day IL with strained right forearm / surgery on right elbow,10, strained right forearm / surgery on right elbow,622088
+2021-08-25, Reds,Tejay Antone, placed on 10 day IL with strained right forearm / surgery on right elbow,10,on right elbow,622088
 2021-08-26, Indians,Ernie Clement, placed on 10 day IL with COVID 19,10, COVID 19,676391
 2021-08-26, Royals,Josh Staumont, placed on 10 day IL with undisclosed,10, undisclosed,622251
 2021-08-27, Phillies,Andrew Knapp, placed on 10 day IL with COVID 19,10, COVID 19,595284
@@ -2441,7 +2441,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-09-17, Giants,Jake McGee, placed on 10 day IL with strained right oblique,10, strained right oblique,459429
 2021-09-17, Royals,Brady Singer, placed on 10 day IL with COVID 19,10, COVID 19,663903
 2021-09-17, Yankees,Sal Romano, placed on 10 day IL with sprained right index finger,10, sprained right index finger,607219
-2021-09-17, Mets,Thomas Szapucki, placed on 60 day IL recovering from ulnar nerve surgery on left elbow,60,unknown,663378
+2021-09-17, Mets,Thomas Szapucki, placed on 60 day IL recovering from ulnar nerve surgery on left elbow,60,on left elbow,663378
 2021-09-18, Athletics,Daulton Jefferies, placed on 10 day IL with ulnar neuritis in right elbow,10, ulnar neuritis in right elbow,641726
 2021-09-19, Pirates,Bryse Wilson, placed on 10 day IL with strained right hamstring,10, strained right hamstring,669060
 2021-09-19, Tigers,Gregory Soto, placed on 10 day IL with fractured left ring finger,10, fractured left ring finger,642397
@@ -2487,46 +2487,46 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2021-10-03, Marlins,Sean Guenther, placed on 10 day IL with strained upper back,10, strained upper back,674944
 2021-10-08, Red Sox,Garrett Richards, placed on 10 day IL with strained left hamstring (out for season),10, strained left hamstring (out for season),572070
 2021-10-27, Braves,Charlie Morton, placed on 10 day IL with fractured fibula in right leg (out for season),10, fractured fibula in right leg (out for season),450203
-2022-03-12, Phillies,JoJo Romero," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,668941
-2022-03-15, Pirates,Blake Cederlind," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,664977
-2022-03-15, Pirates,Nick Mears, placed on 60 day IL recovering from surgery on right elbow,60,unknown,683232
+2022-03-12, Phillies,JoJo Romero," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,668941
+2022-03-15, Pirates,Blake Cederlind," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,664977
+2022-03-15, Pirates,Nick Mears, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,683232
 2022-03-16, Angels,Griffin Canning, placed on 60 day IL with sore lower back,60, sore lower back,656288
-2022-03-16, Braves,Kirby Yates," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,489446
-2022-03-16, Cubs,Codi Heuer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,676051
-2022-03-16, Padres,Adrian Morejon," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,670970
+2022-03-16, Braves,Kirby Yates," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,489446
+2022-03-16, Cubs,Codi Heuer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,676051
+2022-03-16, Padres,Adrian Morejon," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,670970
 2022-03-16, Red Sox,Chris Sale, placed on 60 day IL,60,unknown,519242
-2022-03-16, Red Sox,James Paxton," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,572020
+2022-03-16, Red Sox,James Paxton," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,572020
 2022-03-16, Royals,Tyler Zuber, placed on 60 day IL with right shoulder impingement syndrome,60, right shoulder impingement syndrome,676604
 2022-03-17, Cubs,Brad Wieck, placed on 60 day IL with strained left elbow,60, strained left elbow,623364
-2022-03-17, Dodgers,Dustin May," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,669160
-2022-03-17, Rays,Tyler Glasnow," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,607192
+2022-03-17, Dodgers,Dustin May," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,669160
+2022-03-17, Rays,Tyler Glasnow," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,607192
 2022-03-17, Rockies,Scott Oberg, placed on 60 day IL with right elbow injury / recovering from blood clot procedure on right elbow,60, right elbow injury / recovering from blood clot procedure on right elbow,623184
 2022-03-18, Cubs,Adbert Alzolay, placed on 60 day IL with strained lat muscle in right shoulder,60, strained lat muscle in right shoulder,640470
-2022-03-18, Dodgers,Jimmy Nelson," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,519076
-2022-03-18, Padres,Michel Baez, placed on 60 day IL recovering from surgery on right elbow,60,unknown,673258
-2022-03-18, Rays,Yonny Chirinos," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,630023
+2022-03-18, Dodgers,Jimmy Nelson," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,519076
+2022-03-18, Padres,Michel Baez, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,673258
+2022-03-18, Rays,Yonny Chirinos," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,630023
 2022-03-18, Yankees,Domingo German, placed on 60 day IL with right shoulder impingement syndrome,60, right shoulder impingement syndrome,593334
-2022-03-18, Dodgers,Danny Duffy, placed on 60 day IL recovering from surgery on left elbow,60,unknown,518633
+2022-03-18, Dodgers,Danny Duffy, placed on 60 day IL recovering from surgery on left elbow,60,on left elbow,518633
 2022-03-19, Braves,Jay Jackson, placed on 60 day IL with strained right lat muscle,60, strained right lat muscle,543351
 2022-03-19, Cubs,Tommy Nance, placed on 10 day IL with COVID 19,10, COVID 19,667297
 2022-03-20, Phillies,Kent Emanuel, placed on 60 day IL with left elbow impingement,60, left elbow impingement,592288
-2022-03-20, Rangers,Jonathan Hernandez," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,642546
-2022-03-20, Twins,Kenta Maeda," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,628317
+2022-03-20, Rangers,Jonathan Hernandez," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,642546
+2022-03-20, Twins,Kenta Maeda," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,628317
 2022-03-21, Twins,Randy Dobnak, placed on 60 day IL with sprained/strained right middle finger,60, sprained/strained right middle finger,677976
 2022-03-24, Diamondbacks,J.B. Bukauskas, placed on 60 day IL with strained teres major muscle in right shoulder,60, strained teres major muscle in right shoulder,656266
-2022-03-24, White Sox,Jonathan Stiever, placed on 60 day IL recovering from surgery on right lat muscle,60,unknown,680692
+2022-03-24, White Sox,Jonathan Stiever, placed on 60 day IL recovering from surgery on right lat muscle,60,on right lat muscle,680692
 2022-03-25, Cardinals,Alex Reyes, placed on 60 day IL with frayed labrum in right shoulder,60, frayed labrum in right shoulder,621052
 2022-03-25, Guardians,Cody Morris, placed on 60 day IL with strained right shoulder,60, strained right shoulder,663752
-2022-03-26, Reds,Tejay Antone," placed on 60 day IL with recovering from ligament replacement (""Tommy John"") surgery on right elbow",60," recovering from ligament replacement (""Tommy John"") surgery on right elbow",622088
-2022-03-28, Padres,Drew Pomeranz, placed on 60 day IL with surgery on left forearm to repair flexor tendon,60, surgery on left forearm to repair flexor tendon,519141
-2022-03-29, Mets,Joey Lucchesi," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,664192
+2022-03-26, Reds,Tejay Antone," placed on 60 day IL with recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,622088
+2022-03-28, Padres,Drew Pomeranz, placed on 60 day IL with surgery on left forearm to repair flexor tendon,60,on left forearm to repair flexor tendon,519141
+2022-03-29, Mets,Joey Lucchesi," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,664192
 2022-03-29, Reds,Lucas Sims, placed on 10 day IL with elbow injury,10, elbow injury,608371
 2022-04-03, Braves,Luke Jackson, placed on 60 day IL with torn UCL in right elbow,60, torn UCL in right elbow,592426
 2022-04-03, Marlins,Sean Guenther, placed on 60 day IL with strained left arm,60, strained left arm,674944
-2022-04-04, Cardinals,Jack Flaherty, placed on 10 day IL with discomfort in right shoulder (recovering from surgery),10, discomfort in right shoulder (recovering from surgery),656427
+2022-04-04, Cardinals,Jack Flaherty, placed on 10 day IL with discomfort in right shoulder (recovering from surgery),10,),656427
 2022-04-04, Red Sox,Chris Sale, placed on 60 day IL with stress fracture in right rib cage,60, stress fracture in right rib cage,519242
 2022-04-04, Rockies,Peter Lambert, placed on 10 day IL with right forearm inflammation,10, right forearm inflammation,663567
-2022-04-04, White Sox,Garrett Crochet," placed on 10 day IL with ligament replacement (""Tommy John"") surgery on left elbow",10," ligament replacement (""Tommy John"") surgery on left elbow",676979
+2022-04-04, White Sox,Garrett Crochet," placed on 10 day IL with ligament replacement (""Tommy John"") surgery on left elbow",10,on left elbow,676979
 2022-04-05, Phillies,Ryan Sherriff, placed on 10 day IL with strained biceps / strained left shoulder,10, strained biceps / strained left shoulder,595411
 2022-04-05, Phillies,Sam Coonrod, placed on 10 day IL with sore right shoulder,10, sore right shoulder,656322
 2022-04-05, Pirates,Luis Oviedo, placed on 10 day IL with sprained right ankle,10, sprained right ankle,665854
@@ -2534,15 +2534,15 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-04-05, Pirates,Sam Howard, placed on 10 day IL with strained muscle in mid back,10, strained muscle in mid back,607572
 2022-04-05, Rangers,Garrett Richards, placed on 10 day IL with blister on right middle finger,10, blister on right middle finger,572070
 2022-04-05, Yankees,Stephen Ridings, placed on 60 day IL with right shoulder impingement,60, right shoulder impingement,670050
-2022-04-06, Angels,Jose Soriano," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,667755
-2022-04-06, Dodgers,Tommy Kahnle," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,unknown,592454
+2022-04-06, Angels,Jose Soriano," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,667755
+2022-04-06, Dodgers,Tommy Kahnle," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",10,on right elbow,592454
 2022-04-06, Rockies,Lucas Gilbreath, placed on 10 day IL with COVID 19 positive test,10, COVID 19 positive test,656458
 2022-04-06, Rockies,Robert Stephenson, placed on 10 day IL with COVID 19 positive test,10, COVID 19 positive test,596112
 2022-04-06, Tigers,Andrew Chafin, placed on 10 day IL with strained left groin,10, strained left groin,605177
 2022-04-06, Tigers,Jose Cisnero, placed on 60 day IL with strained right shoulder,60, strained right shoulder,542585
 2022-04-06, Tigers,Kyle Funkhouser, placed on 10 day IL with strained right shoulder,10, strained right shoulder,608335
-2022-04-06, Tigers,Spencer Turnbull, placed on 60 day IL recovering from surgery on right elbow,60,unknown,605513
-2022-04-06, Mets,John Curtiss," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,595928
+2022-04-06, Tigers,Spencer Turnbull, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,605513
+2022-04-06, Mets,John Curtiss," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,595928
 2022-04-07, Angels,Cooper Criswell, placed on 10 day IL with sore right shoulder,10, sore right shoulder,681867
 2022-04-07, Astros,Lance McCullers Jr., placed on 10 day IL with strained right forearm,10, strained right forearm,621121
 2022-04-07, Athletics,Brent Honeywell Jr., placed on 60 day IL with stress reaction in right elbow,60, stress reaction in right elbow,641703
@@ -2556,29 +2556,29 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-04-07, Cubs,Wade Miley, placed on 10 day IL with left elbow inflammation,10, left elbow inflammation,489119
 2022-04-07, Diamondbacks,Jordan Luplow, placed on 10 day IL with strained right oblique,10, strained right oblique,656669
 2022-04-07, Diamondbacks,Josh Rojas, placed on 10 day IL with strained right oblique,10, strained right oblique,668942
-2022-04-07, Dodgers,Caleb Ferguson," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",10,unknown,657571
+2022-04-07, Dodgers,Caleb Ferguson," placed on 10 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",10,on left elbow,657571
 2022-04-07, Guardians,James Karinchak, placed on 10 day IL with strained right upper back,10, strained right upper back,675916
 2022-04-07, Guardians,Luke Maile, placed on 10 day IL with strained left hamstring,10, strained left hamstring,571912
-2022-04-07, Mariners,Casey Sadler, placed on 10 day IL with right shoulder injury (surgery),10, right shoulder injury (surgery),594987
+2022-04-07, Mariners,Casey Sadler, placed on 10 day IL with right shoulder injury (surgery),10,),594987
 2022-04-07, Mariners,Ken Giles, placed on 10 day IL with sprained tendon in right middle finger,10, sprained tendon in right middle finger,571704
 2022-04-07, Marlins,Dylan Floro, placed on 10 day IL rotator cuff tendinitis in right shoulder,10,unknown,571670
 2022-04-07, Mets,Jacob deGrom, placed on 10 day IL with stress reaction in scapula in right shoulder,10, stress reaction in scapula in right shoulder,594798
 2022-04-07, Mets,Jake Reed, placed on 10 day IL with strained left oblique,10, strained left oblique,596082
 2022-04-07, Nationals,Ehire Adrianza, placed on 10 day IL with strained left quadriceps,10, strained left quadriceps,501303
-2022-04-07, Nationals,Stephen Strasburg, placed on 10 day IL recovering from surgery to treat thoracic outlet syndrome,10,unknown,544931
-2022-04-07, Nationals,Will Harris, placed on 60 day IL with surgery on right pectoral,60, surgery on right pectoral,501789
+2022-04-07, Nationals,Stephen Strasburg, placed on 10 day IL recovering from surgery to treat thoracic outlet syndrome,10,to treat thoracic outlet syndrome,544931
+2022-04-07, Nationals,Will Harris, placed on 60 day IL with surgery on right pectoral,60,on right pectoral,501789
 2022-04-07, Padres,Mike Clevinger, placed on 10 day IL with sprained right knee,10, sprained right knee,605182
-2022-04-07, Rangers,Jose Leclerc," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,600917
+2022-04-07, Rangers,Jose Leclerc," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,600917
 2022-04-07, Rays,Pete Fairbanks, placed on 60 day IL with strained right lat muscle,60, strained right lat muscle,664126
 2022-04-07, Reds,Connor Phillips, placed on 60 day IL with shoulder injury,60, shoulder injury,683175
 2022-04-07, Reds,Lucas Sims, placed on 10 day IL for conditioning,10,unknown,608371
 2022-04-07, Reds,Max Schrock, placed on 60 day IL with strained left calf,60, strained left calf,621011
 2022-04-07, Reds,Mike Minor, placed on 10 day IL with sore left shoulder,10, sore left shoulder,501985
 2022-04-07, Twins,Cody Stashak, placed on 10 day IL with right biceps tendinitis,10, right biceps tendinitis,664054
-2022-04-07, White Sox,Lance Lynn, placed on 10 day IL with surgery on right knee to repair torn tendon / torn menuscus,10, surgery on right knee to repair torn tendon / torn menuscus,458681
+2022-04-07, White Sox,Lance Lynn, placed on 10 day IL with surgery on right knee to repair torn tendon / torn menuscus,10,on right knee to repair torn tendon / torn menuscus,458681
 2022-04-07, White Sox,Yermin Mercedes, placed on 10 day IL with fractured hamate bone in left hand,10, fractured hamate bone in left hand,606213
 2022-04-07, Nationals,Seth Romero, placed on 60 day IL with strained left calf,60, strained left calf,656913
-2022-04-07, Rays,Brendan McKay, placed on 60 day IL recovering from surgery to correct thoracic outlet syndrome,60,unknown,656713
+2022-04-07, Rays,Brendan McKay, placed on 60 day IL recovering from surgery to correct thoracic outlet syndrome,60,to correct thoracic outlet syndrome,656713
 2022-04-08, Angels,Jose Quijada, placed on 10 day IL with strained right oblique,10, strained right oblique,650671
 2022-04-08, Diamondbacks,Luke Weaver, placed on 10 day IL with right elbow inflammation,10, right elbow inflammation,596133
 2022-04-09, Pirates,Duane Underwood Jr., placed on 10 day IL with strained right hamstring,10, strained right hamstring,621249
@@ -2814,7 +2814,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-06-28, Phillies,Zach Eflin, placed on 15 day IL with bruised right knee,15, bruised right knee,621107
 2022-06-29, Phillies,James McArthur, placed on 60 day IL with stress reaction in right elbow,60, stress reaction in right elbow,663704
 2022-07-01, Brewers,Adrian Houser, placed on 15 day IL with strained right flexor,15, strained right flexor,605288
-2022-07-01, Giants,Anthony DeSclafani, placed on 15 day IL with right ankle inflammation (surgery),15, right ankle inflammation (surgery),543101
+2022-07-01, Giants,Anthony DeSclafani, placed on 15 day IL with right ankle inflammation (surgery),15,),543101
 2022-07-01, Mets,Chris Bassitt, placed on 10 day IL with COVID 19,10, COVID 19,605135
 2022-07-02, Rockies,Antonio Senzatela, placed on 15 day IL with right shoulder inflammation,15, right shoulder inflammation,622608
 2022-07-03, Cubs,Alec Mills, placed on 15 day IL with strained lower back,15, strained lower back,621219
@@ -2844,9 +2844,9 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-07-09, Reds,Ross Detwiler, placed on 15 day IL with sore/strained lower back,15, sore/strained lower back,446321
 2022-07-10, Mets,James McCann, placed on 10 day IL with strained left oblique,10, strained left oblique,543510
 2022-07-10, Rays,Jeffrey Springs, placed on 15 day IL with tightness in right lower leg,15, tightness in right lower leg,605488
-2022-07-11, Braves,Kirby Yates," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,489446
+2022-07-11, Braves,Kirby Yates," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,489446
 2022-07-11, Rangers,Dane Dunning, placed on 15 day IL with right ankle impingement,15, right ankle impingement,641540
-2022-07-11, Rangers,Mitch Garver, placed on 60 day IL with surgery on right forearm flexor tendon,60, surgery on right forearm flexor tendon,641598
+2022-07-11, Rangers,Mitch Garver, placed on 60 day IL with surgery on right forearm flexor tendon,60,on right forearm flexor tendon,641598
 2022-07-11, Red Sox,Kevin Plawecki, placed on 10 day IL with COVID 19,10, COVID 19,608700
 2022-07-12, Rays,Josh Fleming, placed on 15 day IL with tightness in right oblique,15, tightness in right oblique,676596
 2022-07-12, Reds,Albert Almora Jr., placed on 10 day IL with COVID 19,10, COVID 19,546991
@@ -2995,7 +2995,7 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-09-07, Yankees,Anthony Rizzo, placed on 10 day IL with pain in lower back,10, pain in lower back,519203
 2022-09-09, Brewers,Freddy Peralta, placed on 15 day IL with right shoulder fatigue/inflammation,15, right shoulder fatigue/inflammation,642547
 2022-09-09, Giants,Dominic Leone, placed on 15 day IL with right elbow inflammation,15, right elbow inflammation,608678
-2022-09-09, Rays,Brendan McKay," placed on 15 day IL with ligament replacement (""Tommy John"") surgery on left elbow",15," ligament replacement (""Tommy John"") surgery on left elbow",656713
+2022-09-09, Rays,Brendan McKay," placed on 15 day IL with ligament replacement (""Tommy John"") surgery on left elbow",15,on left elbow,656713
 2022-09-10, Brewers,Eric Lauer, placed on 15 day IL with left elbow inflammation,15, left elbow inflammation,641778
 2022-09-10, Dodgers,Blake Treinen, placed on 15 day IL with tightness in right shoulder,15, tightness in right shoulder,595014
 2022-09-11, Twins,Chris Archer, placed on 15 day IL with tightness in right pectoral muscle,15, tightness in right pectoral muscle,502042
@@ -3028,14 +3028,14 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-09-24, Braves,Spencer Strider, placed on 15 day IL with strained left oblique,15, strained left oblique,675911
 2022-09-24, Dodgers,Dustin May, placed on 15 day IL with tightness in lower back,15, tightness in lower back,669160
 2022-09-25, Phillies,Brad Hand, placed on 15 day IL with left elbow tendinitis,15, left elbow tendinitis,543272
-2022-09-25, Reds,Art Warren, placed on 60 day IL recovering from surgery on right elbow,60,unknown,605521
-2022-09-27, Rangers,Dane Dunning, placed on 15 day IL with surgery on right hip,15, surgery on right hip,641540
+2022-09-25, Reds,Art Warren, placed on 60 day IL recovering from surgery on right elbow,60,on right elbow,605521
+2022-09-27, Rangers,Dane Dunning, placed on 15 day IL with surgery on right hip,15,on right hip,641540
 2022-09-27, Rockies,Carlos Estevez, placed on 10 day IL with COVID 19,10, COVID 19,608032
-2022-09-27, Twins,Sandy Leon, placed on 10 day IL with surgery to repair meniscus in right knee,10, surgery to repair meniscus in right knee,506702
+2022-09-27, Twins,Sandy Leon, placed on 10 day IL with surgery to repair meniscus in right knee,10,to repair meniscus in right knee,506702
 2022-09-27, White Sox,Seby Zavala, placed on 7 day IL with concussion,7, concussion,664874
 2022-09-28, Brewers,Adrian Houser, placed on 15 day IL with strained right groin,15, strained right groin,605288
 2022-09-28, Dodgers,Phil Bickford, placed on 15 day IL with right shoulder fatigue,15, right shoulder fatigue,641360
-2022-09-28, Braves,Huascar Ynoa," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,660623
+2022-09-28, Braves,Huascar Ynoa," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,660623
 2022-09-29, Angels,Archie Bradley, placed on 15 day IL with strained right forearm,15, strained right forearm,605151
 2022-09-29, Marlins,Steven Okert, placed on 15 day IL with tightness in left triceps,15, tightness in left triceps,595345
 2022-09-29, Tigers,Matt Manning, placed on 60 day IL with strained right forearm,60, strained right forearm,666159
@@ -3060,22 +3060,22 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2022-10-05, Mets,Tylor Megill, placed on 10 day IL with COVID 19,10, COVID 19,656731
 2022-10-05, Padres,Mike Clevinger, placed on 15 day IL with illness / COVID 19,15, illness / COVID 19,605182
 2023-02-16, Angels,Davis Daniel, placed on 60 day IL with strained right shoulder,60, strained right shoulder,669721
-2023-02-16, Dodgers,Blake Treinen, placed on 60 day IL recovering from surgery on right shoulder (out for season),60,unknown,595014
-2023-02-16, Dodgers,J.P. Feyereisen, placed on 60 day IL recovering from surgery on right shoulder (out for season),60,unknown,656420
-2023-02-16, Dodgers,Walker Buehler," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery and surgery to repair flexor tendon in right elbow (out for season)",60,unknown,621111
+2023-02-16, Dodgers,Blake Treinen, placed on 60 day IL recovering from surgery on right shoulder (out for season),60,on right shoulder (out for season),595014
+2023-02-16, Dodgers,J.P. Feyereisen, placed on 60 day IL recovering from surgery on right shoulder (out for season),60,on right shoulder (out for season),656420
+2023-02-16, Dodgers,Walker Buehler," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery and surgery to repair flexor tendon in right elbow (out for season)",60,and,621111
 2023-02-16, Rays,Andrew Kittredge, placed on 60 day IL with right elbow injury,60, right elbow injury,552640
-2023-02-17, Cubs,Ethan Roberts," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,681799
-2023-02-17, Tigers,Casey Mize," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,663554
+2023-02-17, Cubs,Ethan Roberts," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),681799
+2023-02-17, Tigers,Casey Mize," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),663554
 2023-02-18, Brewers,Jason Alexander, placed on 60 day IL with strained rotator cuff in right shoulder,60, strained rotator cuff in right shoulder,669920
-2023-02-22, Reds,Vladimir Gutierrez," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,661269
-2023-02-23, Twins,Chris Paddack," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,663978
+2023-02-22, Reds,Vladimir Gutierrez," placed on 60 day DL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),661269
+2023-02-23, Twins,Chris Paddack," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,663978
 2023-03-04, Rockies,Tyler Kinley, placed on 60 day IL with torn flexor in right elbow,60, torn flexor in right elbow,641755
-2023-03-08, Pirates,Max Kranick," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,668820
-2023-03-14, Tigers,Tarik Skubal, placed on 60 day IL recovering from surgery on left elbow to repair flexor tendon,60,unknown,669373
-2023-03-15, Marlins,Anthony Bender," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,669622
-2023-03-15, Rays,Andrew Kittredge," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,552640
+2023-03-08, Pirates,Max Kranick," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,668820
+2023-03-14, Tigers,Tarik Skubal, placed on 60 day IL recovering from surgery on left elbow to repair flexor tendon,60,on left elbow to repair flexor tendon,669373
+2023-03-15, Marlins,Anthony Bender," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),669622
+2023-03-15, Rays,Andrew Kittredge," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,552640
 2023-03-15, Royals,Angel Zerpa, placed on 60 day IL with left shoulder tendinopathy,60, left shoulder tendinopathy,672582
-2023-03-21, Rockies,Lucas Gilbreath," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on left elbow (out for season)",60," ligament replacement (""Tommy John"") surgery on left elbow (out for season)",656458
+2023-03-21, Rockies,Lucas Gilbreath," placed on 60 day IL with ligament replacement (""Tommy John"") surgery on left elbow (out for season)",60,on left elbow (out for season),656458
 2023-03-26, Athletics,Kirby Snead, placed on 60 day IL with strained left shoulder,60, strained left shoulder,669912
 2023-03-27, Braves,Kyle Wright, placed on 15 day IL with right shoulder inflammation / sore right shoulder,15, right shoulder inflammation / sore right shoulder,657140
 2023-03-29, Angels,Griffin Canning, placed on 15 day IL with strained left groin,15, strained left groin,656288
@@ -3094,45 +3094,45 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2023-03-30, Athletics,Freddy Tarnok, placed on 15 day IL with strained right shoulder / discomfort in right arm,15, strained right shoulder / discomfort in right arm,676206
 2023-03-30, Athletics,Paul Blackburn, placed on 15 day IL with right middle fingernail avulsion,15, right middle fingernail avulsion,621112
 2023-03-30, Blue Jays,Mitch White, placed on 15 day IL with right elbow inflammation,15, right elbow inflammation,669952
-2023-03-30, Braves,Huascar Ynoa," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,660623
+2023-03-30, Braves,Huascar Ynoa," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),660623
 2023-03-30, Braves,Kolby Allard, placed on 60 day IL with strained right oblique muscle,60, strained right oblique muscle,663465
 2023-03-30, Braves,Raisel Iglesias, placed on 15 day IL with strained right shoulder / right shoulder inflammation,15, strained right shoulder / right shoulder inflammation,628452
-2023-03-30, Braves,Tyler Matzek," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow (out for season)",60,unknown,554431
+2023-03-30, Braves,Tyler Matzek," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow (out for season)",60,on left elbow (out for season),554431
 2023-03-30, Cardinals,Adam Wainwright, placed on 15 day IL with strained groin,15, strained groin,425794
 2023-03-30, Cubs,Brandon Hughes, placed on 15 day IL with left knee inflammation,15, left knee inflammation,676714
-2023-03-30, Cubs,Kyle Hendricks, placed on 15 day IL recovering from surgery on right shoulder to repair capsular tear,15,unknown,543294
+2023-03-30, Cubs,Kyle Hendricks, placed on 15 day IL recovering from surgery on right shoulder to repair capsular tear,15,on right shoulder to repair capsular tear,543294
 2023-03-30, Diamondbacks,Carson Kelly, placed on 10 day IL with fractured right forearm,10, fractured right forearm,608348
 2023-03-30, Diamondbacks,Corbin Martin, placed on 15 day IL with right lat tendon avulsion,15, right lat tendon avulsion,656686
 2023-03-30, Diamondbacks,Joe Mantiply, placed on 15 day IL with left shoulder inflammation,15, left shoulder inflammation,573009
 2023-03-30, Diamondbacks,Mark Melancon, placed on 15 day IL with strained right shoulder,15, strained right shoulder,453343
-2023-03-30, Dodgers,Alex Reyes, placed on 15 day IL recovering from surgery on right shoulder to repair torn labrum,15,unknown,621052
-2023-03-30, Dodgers,Daniel Hudson, placed on 15 day IL recovering from surgery on left knee to repair torn ACL,15,unknown,543339
-2023-03-30, Dodgers,Jimmy Nelson," placed on 15 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,519076
+2023-03-30, Dodgers,Alex Reyes, placed on 15 day IL recovering from surgery on right shoulder to repair torn labrum,15,on right shoulder to repair torn labrum,621052
+2023-03-30, Dodgers,Daniel Hudson, placed on 15 day IL recovering from surgery on left knee to repair torn ACL,15,on left knee to repair torn ACL,543339
+2023-03-30, Dodgers,Jimmy Nelson," placed on 15 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,519076
 2023-03-30, Dodgers,Ryan Pepiot, placed on 15 day IL with strained left oblique,15, strained left oblique,686752
 2023-03-30, Dodgers,Tony Gonsolin, placed on 15 day IL with sprained left ankle,15, sprained left ankle,664062
 2023-03-30, Giants,Austin Slater, placed on 10 day IL with strained left hamstring,10, strained left hamstring,596103
-2023-03-30, Giants,Luke Jackson," placed on 15 day / 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,592426
+2023-03-30, Giants,Luke Jackson," placed on 15 day / 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,592426
 2023-03-30, Giants,Thomas Szapucki, placed on 60 day IL with neuropathy in left arm (out for season),60, neuropathy in left arm (out for season),663378
 2023-03-30, Guardians,Cody Morris, placed on 60 day IL with strained right teres major,60, strained right teres major,663752
 2023-03-30, Guardians,Sam Hentges, placed on 15 day IL with left shoulder inflammation,15, left shoulder inflammation,656529
 2023-03-30, Guardians,Triston McKenzie, placed on 15 day IL with strained right teres major,15, strained right teres major,663474
-2023-03-30, Marlins,Max Meyer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,676974
+2023-03-30, Marlins,Max Meyer," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),676974
 2023-03-30, Marlins,Steven Okert, placed on 15 day IL with strained left adductor,15, strained left adductor,595345
 2023-03-30, Marlins,Tommy Nance, placed on 15 day IL with strained right shoulder,15, strained right shoulder,667297
-2023-03-30, Mets,Bryce Montes de Oca," placed on 15 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,unknown,656755
+2023-03-30, Mets,Bryce Montes de Oca," placed on 15 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",15,on right elbow,656755
 2023-03-30, Mets,Elieser Hernandez, placed on 15 day IL with strained right shoulder,15, strained right shoulder,622694
 2023-03-30, Mets,Sam Coonrod, placed on 15 day IL with strained right lat,15, strained right lat,656322
 2023-03-30, Mets,Stephen Ridings, placed on 15 day IL with strained right lat / discomfort in right shoulder,15, strained right lat / discomfort in right shoulder,670050
-2023-03-30, Nationals,Cade Cavalli," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,676917
+2023-03-30, Nationals,Cade Cavalli," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),676917
 2023-03-30, Nationals,Stephen Strasburg, placed on 60 day IL with thoracic outlet syndrome (out for season),60, thoracic outlet syndrome (out for season),544931
-2023-03-30, Nationals,Tanner Rainey," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,unknown,663432
+2023-03-30, Nationals,Tanner Rainey," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow",60,on right elbow,663432
 2023-03-30, Nationals,Victor Arano, placed on 60 day IL with right shoulder impingement (out for season),60, right shoulder impingement (out for season),644364
 2023-03-30, Orioles,Dillon Tate, placed on 15 day IL with strained flexor in right forearm,15, strained flexor in right forearm,622253
 2023-03-30, Orioles,James McCann, placed on 10 day IL with strained left oblique,10, strained left oblique,543510
-2023-03-30, Orioles,John Means," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,607644
+2023-03-30, Orioles,John Means," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,607644
 2023-03-30, Orioles,Mychal Givens, placed on 15 day IL with left knee inflammation,15, left knee inflammation,571710
 2023-03-30, Padres,Adrian Morejon, placed on 60 day IL with sprained left elbow,60, sprained left elbow,670970
-2023-03-30, Padres,Drew Pomeranz, placed on 15 day IL recovering from surgery on left forearm to repair flexor tendon,15,unknown,519141
+2023-03-30, Padres,Drew Pomeranz, placed on 15 day IL recovering from surgery on left forearm to repair flexor tendon,15,on left forearm to repair flexor tendon,519141
 2023-03-30, Padres,Joe Musgrove, placed on 15 day IL with fractured left big toe,15, fractured left big toe,605397
 2023-03-30, Padres,Robert Suarez, placed on 15 day IL with right elbow inflammation,15, right elbow inflammation,663158
 2023-03-30, Phillies,Cristopher Sanchez, placed on 15 day IL with strained left triceps,15, strained left triceps,650911
@@ -3144,29 +3144,29 @@ Date,Team,Player,Notes,DL_length,Injury_Type,player_id
 2023-03-30, Rangers,Jake Odorizzi, placed on 60 day IL with right arm fatigue / right shoulder fatigue (out for season),60, right arm fatigue / right shoulder fatigue (out for season),543606
 2023-03-30, Rangers,Josh Sborz, placed on 15 day IL with sprained left ankle,15, sprained left ankle,622250
 2023-03-30, Red Sox,Brayan Bello, placed on 15 day IL with right elbow inflammation,15, right elbow inflammation,678394
-2023-03-30, Red Sox,Garrett Whitlock, placed on 15 day IL recovering from arthroscopic surgery on right hip,15,unknown,676477
+2023-03-30, Red Sox,Garrett Whitlock, placed on 15 day IL recovering from arthroscopic surgery on right hip,15,on right hip,676477
 2023-03-30, Red Sox,James Paxton, placed on 15 day IL with strained right hamstring,15, strained right hamstring,572020
 2023-03-30, Red Sox,Joely Rodriguez, placed on 15 day IL with strained right oblique,15, strained right oblique,570257
 2023-03-30, Red Sox,Wyatt Mills, placed on 15 day IL with right elbow inflammation,15, right elbow inflammation,670090
 2023-03-30, Reds,Lucas Sims, placed on 15 day IL with lower back spasms,15, lower back spasms,608371
 2023-03-30, Reds,Luke Weaver, placed on 15 day IL with strained flexor in right forearm,15, strained flexor in right forearm,596133
 2023-03-30, Reds,Tejay Antone, placed on 60 day IL with strained flexor in right forearm,60, strained flexor in right forearm,622088
-2023-03-30, Rockies,Antonio Senzatela, placed on 15 day IL recovering from surgery on left knee to repair torn ACL,15,unknown,622608
+2023-03-30, Rockies,Antonio Senzatela, placed on 15 day IL recovering from surgery on left knee to repair torn ACL,15,on left knee to repair torn ACL,622608
 2023-03-30, Rockies,Daniel Bard, placed on 15 day IL with anxiety disorder,15, anxiety disorder,453268
-2023-03-30, Rockies,Randal Grichuk, placed on 10 day IL recovering from surgery to repair bilateral hernia,10,unknown,545341
+2023-03-30, Rockies,Randal Grichuk, placed on 10 day IL recovering from surgery to repair bilateral hernia,10,to repair bilateral hernia,545341
 2023-03-30, Royals,Daniel Lynch, placed on 15 day IL with strained rotator cuff in left shoulder,15, strained rotator cuff in left shoulder,663738
-2023-03-30, Royals,Jake Brentz," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,unknown,641394
+2023-03-30, Royals,Jake Brentz," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",60,on left elbow,641394
 2023-03-30, Tigers,Beau Brieske, placed on 15 day IL with discomfort in upper right arm,15, discomfort in upper right arm,689225
 2023-03-30, Tigers,Michael Lorenzen, placed on 15 day IL with strained left groin,15, strained left groin,547179
 2023-03-30, Twins,Josh Winder, placed on 15 day IL with sore/strained right shoulder,15, sore/strained right shoulder,680739
 2023-03-30, Twins,Ronny Henriquez, placed on 15 day IL with right elbow inflammation / sore right elbow,15, right elbow inflammation / sore right elbow,678692
-2023-03-30, White Sox,Garrett Crochet," placed on 15 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",15,unknown,676979
+2023-03-30, White Sox,Garrett Crochet," placed on 15 day IL recovering from ligament replacement (""Tommy John"") surgery on left elbow",15,on left elbow,676979
 2023-03-30, White Sox,Liam Hendriks, placed on 15 day IL with non Hodgkin lymphoma,15, non Hodgkin lymphoma,521230
 2023-03-30, White Sox,Matt Foster, placed on 15 day IL with strained right forearm,15, strained right forearm,641582
 2023-03-30, Yankees,Carlos Rodon, placed on 15 day IL with strained left forearm,15, strained left forearm,607074
 2023-03-30, Yankees,Lou Trivino, placed on 15 day IL with strained ligament in right elbow,15, strained ligament in right elbow,642152
 2023-03-30, Yankees,Luis Severino, placed on 15 day IL with strained right lat,15, strained right lat,622663
-2023-03-30, Yankees,Scott Effross," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,unknown,664123
+2023-03-30, Yankees,Scott Effross," placed on 60 day IL recovering from ligament replacement (""Tommy John"") surgery on right elbow (out for season)",60,on right elbow (out for season),664123
 2023-03-30, Yankees,Tommy Kahnle, placed on 15 day IL with right biceps tendinitis,15, right biceps tendinitis,592454
 2023-03-31, Mets,Justin Verlander, placed on 15 day IL with strained right teres major,15, strained right teres major,434378
 2023-03-31, Pirates,Robert Stephenson, placed on 15 day IL with right elbow inflammation / discomfort in right elbow,15, right elbow inflammation / discomfort in right elbow,596112
