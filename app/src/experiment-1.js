@@ -2,9 +2,9 @@ import "./style.css";
 import Plotly from "plotly.js-dist-min";
 import Papa from "papaparse";
 
-const csvFilePath = "app-data/batter_bp2vec.csv";
+const csvFilePath = "app-data/pitcher_bp2vec.csv";
 
-function plot3DScatter(xData, yData, zData) {
+function plot3DScatter(xData, yData, zData, colorData) {
     var trace = {
         x: xData,
         y: yData,
@@ -12,16 +12,20 @@ function plot3DScatter(xData, yData, zData) {
         mode: "markers",
         type: "scatter3d",
         marker: {
-            size: 4,
-            color: zData, 
-            colorscale: "Viridis", 
+            size: 8,
+            // make the color reflect the WAR column of the data
+            color: colorData,
+            colorscale: "viridis", 
+            reversescale: false,
             opacity: 0.8,
             line: {
                 width: 1,
                 color: "rgb(255, 255, 255, 0.5)", 
             },
         },
-        hoverinfo: "x+y+z+text", 
+        // make hover info the colroData column
+        hoverinfo: "x+y+x+text",
+        hovertext: colorData.map((d) => `WAR: ${d}`),
     };
 
     var layout = {
@@ -48,11 +52,12 @@ fetch(csvFilePath)
         Papa.parse(csvData, {
             complete: (results) => {
                 const rows = results.data;
-                const xData = rows.map((row) => row["pca_0"]);
-                const yData = rows.map((row) => row["pca_1"]);
-                const zData = rows.map((row) => row["pca_2"]);
+                const xData = rows.map((row) => row["tsne_0"]);
+                const yData = rows.map((row) => row["tsne_1"]);
+                const zData = rows.map((row) => row["tsne_2"]);
+                const colorData = rows.map((row) => row["WAR"]);
 
-                plot3DScatter(xData, yData, zData);
+                plot3DScatter(xData, yData, zData, colorData);
             },
             header: true,
         });
