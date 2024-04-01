@@ -8,7 +8,8 @@ export default defineConfig({
         input: {
           main: 'index.html',
           page1: 'pitch-only-stats-tsne.html',
-          page2: 'experiment-1.html'
+          page2: 'experiment-1.html',
+          page3: 'pitch-embeddings.html'
         }
       }
     }

@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #f5f5f7;
+    /* background: #BDBDBD; */
+}
+
+#ui {
+    position: fixed;
+    left: 0px;
+    display: table;
+    width: 400px;
+    height: 100vh;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    overflow-y: scroll;
+    overflow-x: wrap;
+}
+
+#viz {
+    position: fixed;
+    left: 400px;
+    top: 5px;
+    width: calc(100% - 405px);
+    height: calc(100vh - 10px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background: #ffffff;
+    box-sizing: border-box;
+}
+
+/* give me a brutalistic drop down menu for the left sid with the class dropdown-basic */
+.dropdown-basic {
+    position: relative;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    justify-content: center;
+}

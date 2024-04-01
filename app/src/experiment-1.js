@@ -1,4 +1,4 @@
-import "../style.css";
+import "./style.css";
 import Plotly from "plotly.js-dist-min";
 import Papa from "papaparse";
 
