@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "colormap": "^2.3.2",
+    "deepscatter": "^2.15.2"
+  }
+}
